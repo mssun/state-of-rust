@@ -11,10 +11,13 @@ repository and update the state of Rust including:
   - unstable features and related issue numbers on GitHub
   - the first commit and the latest commit time
 
-Currently, the information can be obtained from our daily
-[Travis CI jobs](https://travis-ci.com/mssun/state-of-rust)
-(in `after_success` section, folded sometimes).
+Currently, the information is listed in the following files:
 
+  - stable features: [`stable_feature.txt`](stable_feature.txt)
+  - unstable features: [`unstable_feature.txt`](unstable_feature.txt)
+
+Our daily [Travis CI jobs](https://travis-ci.com/mssun/state-of-rust) will
+update these lists.
 
 ## License
 
