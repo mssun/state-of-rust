@@ -6,28 +6,28 @@ pushd rust
 rg ".*#\[stable\(feature\s*=\s*\"(.*?)\",.*since\s*=\s*\"(.*?)\"\)[,\]].*" -r '$1:$2' -g '!src/test/*' --no-heading --line-number \
     | cut -d ':' -f1,2,3,4 --output-delimiter=' ' \
     | awk -v ORS='' '{print ""$3"\t"$4"\t"; system("git --no-pager blame -L "$2","$2" -c  -- "$1" | cut -f3")}' \
-    | uniq > ../stable_feature.txt
+    | uniq > stable_feature.txt
 
 cat stable_feature.txt \
     | sort -u -k1,1 -k3,3 \
-    | sort -u -k1,1 > ../stable_feature_first_commit.txt
+    | sort -u -k1,1 > stable_feature_first_commit.txt
 
 cat stable_feature.txt \
     | sort -u -r -k1,1 -k3,3 \
-    | sort -u -k1,1 > ../stable_feature_latest_commit.txt
+    | sort -u -k1,1 > stable_feature_latest_commit.txt
 
 # unstable features which do not have ETA
 rg ".*#\[unstable\(feature\s*=\s*\"(.*?)\",.*issue\s*=\s*\"(.*?)\"[,\)].*" -r '$1:$2' -g '!src/test/*' --no-heading --line-number \
     | cut -d ':' -f1,2,3,4 --output-delimiter=' ' \
     | awk -v ORS='' '{print ""$3"\t"$4"\t"; system("git --no-pager blame -L "$2","$2" -c  -- "$1" | cut -f3")}' \
-    | uniq > ../unstable_feature.txt
+    | uniq > unstable_feature.txt
 
 cat unstable_feature.txt \
     | sort -u -k1,1 -k3,3 \
-    | sort -u -k1,1 > ../unstable_feature_first_commit.txt
+    | sort -u -k1,1 > unstable_feature_first_commit.txt
 
 cat unstable_feature.txt \
     | sort -u -r -k1,1 -k3,3 \
-    | sort -u -k1,1 > ../unstable_feature_latest_commit.txt
+    | sort -u -k1,1 > unstable_feature_latest_commit.txt
 
 popd
