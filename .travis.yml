@@ -1,29 +1,37 @@
 language: rust
-
 rust: stable
-
 cache: cargo
-
 install:
-  - cargo install ripgrep || true
-
+- cargo install ripgrep || true
 before_script:
-  - git clone https://github.com/rust-lang/rust.git
-
+- git clone https://github.com/rust-lang/rust.git
 script:
-  - travis_wait ./ci/script.sh
-
+- travis_wait ./ci/script.sh
+- cp rust/stable_feature*.txt rust/unstable_feature*.txt .
+- cat stable_feature_latest_commit.txt | cut -f3 > stable_feature_latest_commit_time.txt
+- |
+  { echo "Feature Name\tSince\tFirst Commit Timestamp\tLatest Commit Timestamp"; paste stable_feature_first_commit.txt stable_feature_latest_commit_time.txt | sort -V -k2,2 -k3,3 -k4,4; } \
+    | column -t -s $'\t' -n > stable_feature.txt
+- cat unstable_feature_latest_commit.txt | cut -f3 > unstable_feature_latest_commit_time.txt
+- |
+  { echo "Feature Name\tIssue #\tFirst Commit Timestamp\tLatest Commit Timestamp"; paste unstable_feature_first_commit.txt unstable_feature_latest_commit_time.txt | sort -k3,3 -k4,4; } \
+    | column -t -s $'\t' -n > unstable_feature.txt
 after_success:
-  - cp rust/stable_feature*.txt rust/unstable_feature*.txt .
-  - cat stable_feature_latest_commit.txt | cut -f3 > stable_feature_latest_commit_time.txt
-  - |
-    { echo "Feature Name\tSince\tFirst Commit Timestamp\tLatest Commit Timestamp"; paste stable_feature_first_commit.txt stable_feature_latest_commit_time.txt | sort -V -k2,2 -k3,3 -k4,4; } \
-      | column -t -s $'\t' -n
-  - cat unstable_feature_latest_commit.txt | cut -f3 > unstable_feature_latest_commit_time.txt
-  - |
-    { echo "Feature Name\tIssue #\tFirst Commit Timestamp\tLatest Commit Timestamp"; paste unstable_feature_first_commit.txt unstable_feature_latest_commit_time.txt | sort -k3,3 -k4,4; } \
-      | column -t -s $'\t' -n
-
+- |
+  if [ "${TRAVIS_PULL_REQUEST}" = "false" ]; then
+    if git diff --quiet; then
+      echo "No changes to the output on this push; exiting."
+      exit 0
+    fi
+    git config --global user.email "travis@travis-ci.org"
+    git config --global user.name "Travis CI"
+    git add stable_feature.txt
+    git commit -m "Update stable feature list by Travis CI build $TRAVIS_BUILD_NUMBER"
+    git add unstable_feature.txt
+    git commit -m "Update unstable feature list by Travis CI build $TRAVIS_BUILD_NUMBER"
+    git remote add origin-with-token https://${GH_TOKEN}@github.com/mssun/state-of-rust.git > /dev/null 2>&1
+    git push --quiet --set-upstream origin-with-token master
+  fi
 notifications:
   email:
     on_success: never
