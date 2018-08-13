@@ -16,6 +16,9 @@ Currently, the information is listed in the following files:
   - stable features: [`stable_feature.txt`](stable_feature.txt)
   - unstable features: [`unstable_feature.txt`](unstable_feature.txt)
 
+You can read related issues of unstable features by issue numbers with this link:
+[https://github.com/rust-lang/rust/issues/\[issue number\]](https://github.com/rust-lang/rust/issues/)
+
 Our daily [Travis CI jobs](https://travis-ci.com/mssun/state-of-rust) will
 update these lists.
 
