@@ -1,6 +1,6 @@
 # State of Rust
 
-[![Build Status](https://travis-ci.com/mssun/state-of-rust.svg?token=LzRfzmiUXDqZVqRYbinm&branch=master)](https://travis-ci.com/mssun/state-of-rust)
+[![Build Status](https://travis-ci.com/mssun/state-of-rust.svg?branch=master)](https://travis-ci.com/mssun/state-of-rust)
 
 State of Rust is a project to automatically summarize various stable/unstable
 features of Rust. There is a daily job to check the master branch of Rust
