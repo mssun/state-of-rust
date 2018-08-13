@@ -1,6 +1,12 @@
 language: rust
 rust: stable
 cache: cargo
+before_install:
+- |
+  if [ "$(git log -1 $TRAVIS_COMMIT --pretty="%aN")" = "Travis CI" ]; then
+    echo "Commit from Travis CI."
+    exit 0
+  fi
 install:
 - cargo install ripgrep || true
 before_script:
@@ -23,6 +29,7 @@ after_success:
       echo "No changes to the output on this push; exiting."
       exit 0
     fi
+    git checkout -b master
     git config --global user.email "travis@travis-ci.org"
     git config --global user.name "Travis CI"
     git add stable_feature.txt
@@ -30,7 +37,7 @@ after_success:
     git add unstable_feature.txt
     git commit -m "Update unstable feature list by Travis CI build $TRAVIS_BUILD_NUMBER"
     git remote add origin-with-token https://${GH_TOKEN}@github.com/mssun/state-of-rust.git > /dev/null 2>&1
-    git push --quiet --set-upstream origin-with-token master
+    git push --quiet --set-upstream origin-with-token HEAD:master
   fi
 notifications:
   email:
