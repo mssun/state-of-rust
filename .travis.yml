@@ -12,7 +12,7 @@ install:
 before_script:
 - git clone https://github.com/rust-lang/rust.git
 script:
-- travis_wait ./ci/script.sh
+- travis_wait 45 ./ci/script.sh
 - cp rust/stable_feature*.txt rust/unstable_feature*.txt .
 - cat stable_feature_latest_commit.txt | cut -f3 > stable_feature_latest_commit_time.txt
 - |
