@@ -3,7 +3,7 @@ rust: stable
 cache: cargo
 before_install:
 - |
-  if [ "$(git log -1 $TRAVIS_COMMIT --pretty="%aN")" = "Travis CI" ]; then
+  if [ "$(git log -1 $TRAVIS_COMMIT --pretty="%aN")" = "Travis CI" ] && [ "$TRAVIS_EVENT_TYPE" = "push" ]; then
     echo "Commit from Travis CI."
     exit 0
   fi
