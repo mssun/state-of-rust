@@ -14,7 +14,9 @@ before_script:
 script:
 - travis_wait 45 ./ci/script.sh
 - cp rust/compiler_feature_raw.txt rust/stable_library_feature*.txt rust/unstable_library_feature*.txt .
-- { echo -e "Status\tFeature Name\tVersion\tIssue #\tEdition\tLatest Commit Timestamp"; cat compiler_feature_raw.txt; } | column -t -s $'\t' -n > compiler_feature.txt
+- |
+  { echo -e "Status\tFeature Name\tVersion\tIssue #\tEdition\tLatest Commit Timestamp"; cat compiler_feature_raw.txt; } \
+    | column -t -s $'\t' -n > compiler_feature.txt
 - |
   { echo -e "Feature Name\tSince\tFirst Commit Timestamp\tLatest Commit Timestamp"; paste stable_library_feature_first_commit.txt stable_library_feature_latest_commit_time.txt | sort -V -k2,2 -k3,3 -k4,4; } \
     | column -t -s $'\t' -n > stable_library_feature.txt
