@@ -13,7 +13,11 @@ before_script:
 - git clone https://github.com/rust-lang/rust.git
 script:
 - travis_wait 45 ./ci/script.sh
-- cp rust/stable_library_feature*.txt rust/unstable_library_feature*.txt .
+- cp rust/compiler_feature_raw.txt rust/stable_library_feature*.txt rust/unstable_library_feature*.txt .
+- { echo -e "Status\tFeature Name\tVersion\tIssue #\tEdition\tLatest Commit Timestamp"; cat compiler_feature_raw.txt; } | column -t -s $'\t' -n > compiler_feature.txt
+- |
+  { echo -e "Feature Name\tSince\tFirst Commit Timestamp\tLatest Commit Timestamp"; paste stable_library_feature_first_commit.txt stable_library_feature_latest_commit_time.txt | sort -V -k2,2 -k3,3 -k4,4; } \
+    | column -t -s $'\t' -n > stable_library_feature.txt
 - cat stable_library_feature_latest_commit.txt | cut -f3 > stable_library_feature_latest_commit_time.txt
 - |
   { echo -e "Feature Name\tSince\tFirst Commit Timestamp\tLatest Commit Timestamp"; paste stable_library_feature_first_commit.txt stable_library_feature_latest_commit_time.txt | sort -V -k2,2 -k3,3 -k4,4; } \
@@ -32,6 +36,8 @@ after_success:
     git checkout -b master
     git config --global user.email "travis@travis-ci.org"
     git config --global user.name "Travis CI"
+    git add compiler_feature.txt
+    git commit -m "Update compiler feature list by Travis CI build $TRAVIS_BUILD_NUMBER"
     git add stable_library_feature.txt
     git commit -m "Update stable library feature list by Travis CI build $TRAVIS_BUILD_NUMBER"
     git add unstable_library_feature.txt
