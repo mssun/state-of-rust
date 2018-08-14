@@ -203,16 +203,16 @@ active    unwind_attributes                   1.4.0    None         None        
 active    used                                1.18.0   Some(40289)  None                        2018-03-06 16:02:58 -0800
 active    use_extern_macros                   1.15.0   Some(35896)  Some(Edition::Edition2018)  2018-07-17 14:45:16 -0700
 active    wasm_target_feature                 1.30.0   Some(44839)  None                        2018-08-08 01:43:00 +0200
-removed   allocator                           1.0.0    None         None,                       2018-04-29 17:58:51 +0300
-removed   import_shadowing                    1.0.0    None         None,                       2018-04-29 17:58:51 +0300
-removed   managed_boxes                       1.0.0    None         None,                       2018-04-29 17:58:51 +0300
-removed   negate_unsigned                     1.0.0    Some(29645)  None,                       2018-04-29 17:58:51 +0300
-removed   opt_out_copy                        1.0.0    None         None,                       2018-04-29 17:58:51 +0300
-removed   pushpop_unsafe                      1.2.0    None         None,                       2018-04-29 17:58:51 +0300
-removed   quad_precision_float                1.0.0    None         None,                       2018-04-29 17:58:51 +0300
-removed   reflect                             1.0.0    Some(27749)  None,                       2018-04-29 17:58:51 +0300
-removed   struct_inherit                      1.0.0    None         None,                       2018-04-29 17:58:51 +0300
-removed   test_removed_feature                1.0.0    None         None,                       2018-04-29 17:58:51 +0300
-removed   unmarked_api                        1.0.0    None         None,                       2018-04-29 17:58:51 +0300
-removed   unsafe_no_drop_flag                 1.0.0    None         None,                       2018-04-29 17:58:51 +0300
-removed   visible_private_types               1.0.0    None         None,                       2018-04-29 17:58:51 +0300
+removed   allocator                           1.0.0    None         None, None                  2018-04-29 17:58:51 +0300
+removed   import_shadowing                    1.0.0    None         None, None                  2018-04-29 17:58:51 +0300
+removed   managed_boxes                       1.0.0    None         None, None                  2018-04-29 17:58:51 +0300
+removed   negate_unsigned                     1.0.0    Some(29645)  None, None                  2018-04-29 17:58:51 +0300
+removed   opt_out_copy                        1.0.0    None         None, None                  2018-04-29 17:58:51 +0300
+removed   pushpop_unsafe                      1.2.0    None         None, None                  2018-04-29 17:58:51 +0300
+removed   quad_precision_float                1.0.0    None         None, None                  2018-04-29 17:58:51 +0300
+removed   reflect                             1.0.0    Some(27749)  None, None                  2018-04-29 17:58:51 +0300
+removed   struct_inherit                      1.0.0    None         None, None                  2018-04-29 17:58:51 +0300
+removed   test_removed_feature                1.0.0    None         None, None                  2018-04-29 17:58:51 +0300
+removed   unmarked_api                        1.0.0    None         None, None                  2018-04-29 17:58:51 +0300
+removed   unsafe_no_drop_flag                 1.0.0    None         None, None                  2018-04-29 17:58:51 +0300
+removed   visible_private_types               1.0.0    None         None, None                  2018-04-29 17:58:51 +0300
