@@ -16,8 +16,8 @@ Rust including:
 Currently, the information is listed in the following files:
 
   - compiler features: [`compiler_feature.txt`](compiler_feature.txt)
-  - stable library features: [`stable_feature.txt`](stable_feature.txt)
-  - unstable library features: [`unstable_feature.txt`](unstable_feature.txt)
+  - stable library features: [`stable_library_feature.txt`](stable_library_feature.txt)
+  - unstable library features: [`unstable_library_feature.txt`](unstable_library_feature.txt)
 
 These unstable features are described in [The Unstable Book](https://doc.rust-lang.org/nightly/unstable-book/).
 You can also read related issues of unstable features by issue numbers with this link:
