@@ -54,6 +54,7 @@ accepted        tuple_indexing                      1.0.0    None         None  
 accepted        type_macros                         1.13.0   Some(27245)  None                        2018-03-06 16:02:58 -0800
 accepted        underscore_lifetimes                1.26.0   Some(44524)  None                        2018-03-28 17:25:39 +0200
 accepted        universal_impl_trait                1.26.0   Some(34511)  None                        2018-03-21 17:44:21 -0700
+accepted        use_extern_macros                   1.30.0   Some(35896)  None                        2018-05-14 03:22:52 +0300
 accepted        use_nested_groups                   1.25.0   Some(44494)  None                        2018-03-06 16:02:58 -0800
 accepted        while_let                           1.0.0    None         None                        2018-03-06 16:02:58 -0800
 accepted        windows_subsystem                   1.18.0   Some(37499)  None                        2018-03-06 16:02:58 -0800
@@ -201,7 +202,6 @@ active          unsized_tuple_coercion              1.20.0   Some(42877)  None  
 active          untagged_unions                     1.13.0   Some(32836)  None                        2018-03-06 16:02:58 -0800
 active          unwind_attributes                   1.4.0    None         None                        2018-03-06 16:02:58 -0800
 active          used                                1.18.0   Some(40289)  None                        2018-03-06 16:02:58 -0800
-active          use_extern_macros                   1.15.0   Some(35896)  Some(Edition::Edition2018)  2018-07-17 14:45:16 -0700
 active          wasm_target_feature                 1.30.0   Some(44839)  None                        2018-08-08 01:43:00 +0200
 removed         advanced_slice_patterns             1.0.0    Some(23121)  None                        2018-04-29 17:58:51 +0300
 removed         allocator                           1.0.0    None         None                        2018-04-29 17:58:51 +0300
