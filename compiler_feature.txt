@@ -199,6 +199,7 @@ active          unboxed_closures                    1.0.0    Some(29625)  None  
 active          underscore_imports                  1.26.0   Some(48216)  None                        2018-03-11 00:18:05 +0300
 active          uniform_paths                       1.30.0   Some(53130)  None                        2018-08-09 23:50:04 +0300
 active          unrestricted_attribute_tokens       1.30.0   Some(44690)  None                        2018-08-11 16:40:08 +0300
+active          unsized_locals                      1.30.0   Some(48055)  None                        2018-05-29 00:10:09 +0900
 active          unsized_tuple_coercion              1.20.0   Some(42877)  None                        2018-03-06 16:02:58 -0800
 active          untagged_unions                     1.13.0   Some(32836)  None                        2018-03-06 16:02:58 -0800
 active          unwind_attributes                   1.4.0    None         None                        2018-03-06 16:02:58 -0800
