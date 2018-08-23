@@ -92,6 +92,7 @@ active          const_compare_raw_pointers          1.27.0   Some(53020)  None  
 active          const_fn                            1.2.0    Some(24111)  None                        2018-03-06 16:02:58 -0800
 active          const_fn_union                      1.27.0   Some(51909)  None                        2018-07-02 19:00:07 +0200
 active          const_let                           1.22.1   Some(48821)  None                        2018-03-27 21:16:37 +0200
+active          const_panic                         1.30.0   Some(51999)  None                        2018-08-13 14:27:29 +0200
 active          const_raw_ptr_deref                 1.27.0   Some(51911)  None                        2018-07-02 19:00:07 +0200
 active          const_raw_ptr_to_usize_cast         1.27.0   Some(51910)  None                        2018-07-02 19:00:07 +0200
 active          crate_in_paths                      1.23.0   Some(45477)  Some(Edition::Edition2018)  2018-04-04 13:58:38 -0700
