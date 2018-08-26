@@ -5,6 +5,7 @@ pushd rust
 # compiler features
 rg ".*?\((active|removed|stable_removed|accepted),\s*(.*?),\s*\"(.*?)\",\s*(.*?),\s*(.*?)(,|\),).*" -r '$1:$2:$3:$4:$5' -g '!src/test/*' --no-heading --line-number \
     | sed 's/Some(\([^)]*\))/\1/g' \
+    | sed 's/Edition:://g' \
     | sed -E 's/:/\n/g7; s/:/\t/g; s/\n/:/g' \
     | awk -v ORS='' -F '\t' '{print ""$3"\t"$4"\t"$5"\t"$6"\t"$7"\t"; system("git --no-pager blame -L "$2","$2" -c  -- "$1" | cut -f3")}' \
     | uniq \
