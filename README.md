@@ -12,12 +12,14 @@ Rust including:
   - library features will be stabilized in next few releases
   - unstable library features and related issue numbers on GitHub
   - the first commit and the latest commit time of library features
+  - RFCs
 
 Currently, the information is listed in the following files:
 
   - compiler features: [`compiler_feature.txt`](compiler_feature.txt)
   - stable library features: [`stable_library_feature.txt`](stable_library_feature.txt)
   - unstable library features: [`unstable_library_feature.txt`](unstable_library_feature.txt)
+  - RFCs and corresponding feature names: [`rfc_feature_name.txt `](rfc_feature_name.txt)
 
 These unstable features are described in [The Unstable Book](https://doc.rust-lang.org/nightly/unstable-book/).
 You can also read related issues of unstable features by issue numbers with this link:
