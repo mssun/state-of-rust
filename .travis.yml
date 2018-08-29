@@ -11,9 +11,11 @@ install:
 - cargo install ripgrep || true
 before_script:
 - git clone https://github.com/rust-lang/rust.git
+- git clone https://github.com/rust-lang/rfcs.git
 script:
 - travis_wait 45 ./ci/script.sh
 - cp rust/compiler_feature_raw.txt rust/stable_library_feature*.txt rust/unstable_library_feature*.txt .
+- cp rfcs/rfc.txt .
 - |
   { echo -e "Status\tFeature Name\tVersion\tIssue #\tEdition\tLatest Commit Timestamp"; cat compiler_feature_raw.txt; } \
     | column -t -s $'\t' -n > compiler_feature.txt
@@ -28,6 +30,8 @@ script:
 - |
   { echo -e "Feature Name\tIssue #\tFirst Commit Timestamp\tLatest Commit Timestamp"; paste unstable_library_feature_first_commit.txt unstable_library_feature_latest_commit_time.txt | sort -k3,3 -k4,4; } \
     | column -t -s $'\t' -n > unstable_library_feature.txt
+- |
+  { echo -e "RFC\tFeature Name"; cat rfc.txt | sort -k1,1; } | column -t -s $'\t' -n > rfc_feature_name.txt
 after_success:
 - |
   if [ "${TRAVIS_PULL_REQUEST}" = "false" ]; then
@@ -44,6 +48,8 @@ after_success:
     git commit -m "Update stable library feature list by Travis CI build $TRAVIS_BUILD_NUMBER"
     git add unstable_library_feature.txt
     git commit -m "Update unstable library feature list by Travis CI build $TRAVIS_BUILD_NUMBER"
+    git add rfc_feature_name.txt
+    git commit -m "Update RFC feature list by Travis CI build $TRAVIS_BUILD_NUMBER"
     git remote add origin-with-token https://${GH_TOKEN}@github.com/mssun/state-of-rust.git > /dev/null 2>&1
     git push --quiet --set-upstream origin-with-token HEAD:master
   fi

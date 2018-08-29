@@ -42,3 +42,7 @@ cat unstable_library_feature.txt \
     | sort -u -k1,1 > unstable_library_feature_latest_commit.txt
 
 popd
+
+pushd rfcs
+rg ".*Feature Name:\s.*?`(.*)`" -r '$1' -g 'text/*' --no-line-number | sed 's/`//g' | sed 's/^text\///g' | sed s'/:/\t/g' > rfc.txt
+popd
