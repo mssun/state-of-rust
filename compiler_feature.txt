@@ -31,7 +31,7 @@ accepted        item_like_imports                   1.15.0   35120    None      
 accepted        loop_break_value                    1.19.0   37339    None         2018-03-06 16:02:58 -0800
 accepted        macro_lifetime_matcher              1.27.0   34303    None         2018-05-02 03:02:05 +0000
 accepted        macro_rules                         1.0.0    None     None         2018-03-06 16:02:58 -0800
-accepted        macro_vis_matcher                   1.29.0   41022    None         2018-08-15 00:24:55 +0100
+accepted        macro_vis_matcher                   1.30.0   41022    None         2018-08-25 17:49:45 +0100
 accepted        match_beginning_vert                1.25.0   44101    None         2018-03-06 16:02:58 -0800
 accepted        match_default_bindings              1.26.0   42640    None         2018-03-26 23:39:29 +0200
 accepted        more_struct_aliases                 1.16.0   37544    None         2018-03-06 16:02:58 -0800
@@ -96,6 +96,7 @@ active          const_let                           1.22.1   48821    None      
 active          const_panic                         1.30.0   51999    None         2018-08-13 14:27:29 +0200
 active          const_raw_ptr_deref                 1.27.0   51911    None         2018-07-02 19:00:07 +0200
 active          const_raw_ptr_to_usize_cast         1.27.0   51910    None         2018-07-02 19:00:07 +0200
+active          const_transmute                     1.29.0   53605    None         2018-08-20 19:51:48 +0100
 active          crate_in_paths                      1.23.0   45477    Edition2018  2018-04-04 13:58:38 -0700
 active          crate_visibility_modifier           1.23.0   45388    Edition2018  2018-04-04 13:58:38 -0700
 active          custom_attribute                    1.0.0    29642    None         2018-03-06 16:02:58 -0800
