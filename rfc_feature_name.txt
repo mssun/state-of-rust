@@ -255,3 +255,4 @@ RFC                                               Feature Name
 2421-unreservations-2018.md                       unreservations
 2497-if-let-chains.md                             let_chains_2
 2504-fix-error.md                                 fix_error
+2521-c_void-reunification.md                      c_void_reunification
