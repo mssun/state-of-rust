@@ -143,6 +143,7 @@ active          macro_at_most_once_rep              1.25.0   48075    None      
 active          macro_literal_matcher               1.27.0   35625    None         2018-04-10 02:08:47 +0300
 active          macros_in_extern                    1.27.0   49476    None         2018-03-10 18:16:26 -0800
 active          main                                1.0.0    29634    None         2018-03-06 16:02:58 -0800
+active          min_const_fn                        1.30.0   53555    None         2018-08-22 15:56:37 +0200
 active          mips_target_feature                 1.27.0   44839    None         2018-05-26 23:39:31 +0800
 active          mmx_target_feature                  1.27.0   44839    None         2018-05-26 23:39:31 +0800
 active          naked_functions                     1.9.0    32408    None         2018-03-06 16:02:58 -0800
