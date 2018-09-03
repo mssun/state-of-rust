@@ -253,6 +253,7 @@ RFC                                               Feature Name
 2397-do-not-recommend.md                          do_not_recommend
 2420-unreserve-proc.md                            unreserve_proc
 2421-unreservations-2018.md                       unreservations
+2471-lint-test-inner-function.md                  lint_test_inner_function
 2497-if-let-chains.md                             let_chains_2
 2504-fix-error.md                                 fix_error
 2521-c_void-reunification.md                      c_void_reunification
