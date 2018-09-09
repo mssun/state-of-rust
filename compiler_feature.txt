@@ -36,6 +36,7 @@ accepted        match_beginning_vert                1.25.0   44101    None      
 accepted        match_default_bindings              1.26.0   42640    None         2018-03-26 23:39:29 +0200
 accepted        more_struct_aliases                 1.16.0   37544    None         2018-03-06 16:02:58 -0800
 accepted        no_std                              1.6.0    None     None         2018-03-06 16:02:58 -0800
+accepted        panic_handler                       1.30.0   44489    None         2018-09-07 12:43:39 +0200
 accepted        proc_macro                          1.29.0   38356    None         2018-07-03 15:36:31 -0700
 accepted        proc_macro_path_invoc               1.30.0   38356    None         2018-08-18 00:52:34 +0300
 accepted        pub_restricted                      1.18.0   32409    None         2018-03-06 16:02:58 -0800
@@ -161,7 +162,6 @@ active          omit_gdb_pretty_printer_section     1.5.0    None     None      
 active          on_unimplemented                    1.0.0    29628    None         2018-03-06 16:02:58 -0800
 active          optin_builtin_traits                1.0.0    13231    None         2018-03-06 16:02:58 -0800
 active          overlapping_marker_traits           1.18.0   29864    None         2018-03-06 16:02:58 -0800
-active          panic_handler                       1.30.0   44489    None         2018-08-23 00:40:32 +0200
 active          panic_implementation                1.28.0   44489    None         2018-04-30 10:55:24 +0200
 active          panic_runtime                       1.10.0   32837    None         2018-03-06 16:02:58 -0800
 active          pattern_parentheses                 1.26.0   51087    None         2018-05-26 23:39:31 +0800
