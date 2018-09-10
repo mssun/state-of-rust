@@ -99,7 +99,7 @@ active          const_raw_ptr_deref                 1.27.0   51911    None      
 active          const_raw_ptr_to_usize_cast         1.27.0   51910    None         2018-07-02 19:00:07 +0200
 active          const_transmute                     1.29.0   53605    None         2018-08-20 19:51:48 +0100
 active          crate_in_paths                      1.23.0   45477    Edition2018  2018-04-04 13:58:38 -0700
-active          crate_visibility_modifier           1.23.0   45388    Edition2018  2018-04-04 13:58:38 -0700
+active          crate_visibility_modifier           1.23.0   45388    None         2018-09-06 10:47:41 -0600
 active          custom_attribute                    1.0.0    29642    None         2018-03-06 16:02:58 -0800
 active          custom_derive                       1.0.0    29644    None         2018-03-06 16:02:58 -0800
 active          custom_test_frameworks              1.30.0   50297    None         2018-07-20 18:04:02 -0700
