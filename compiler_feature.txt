@@ -26,6 +26,7 @@ accepted        globs                               1.0.0    None     None      
 accepted        i128_type                           1.26.0   35118    None         2018-03-16 19:51:49 -0500
 accepted        if_let                              1.0.0    None     None         2018-03-06 16:02:58 -0800
 accepted        inclusive_range_syntax              1.26.0   28237    None         2018-01-28 03:19:29 +0800
+accepted        infer_outlives_requirements         1.30.0   44493    None         2018-08-28 00:46:08 -0400
 accepted        issue_5723_bootstrap                1.0.0    None     None         2018-03-06 16:02:58 -0800
 accepted        item_like_imports                   1.15.0   35120    None         2018-03-06 16:02:58 -0800
 accepted        loop_break_value                    1.19.0   37339    None         2018-03-06 16:02:58 -0800
@@ -35,6 +36,7 @@ accepted        macro_vis_matcher                   1.30.0   41022    None      
 accepted        match_beginning_vert                1.25.0   44101    None         2018-03-06 16:02:58 -0800
 accepted        match_default_bindings              1.26.0   42640    None         2018-03-26 23:39:29 +0200
 accepted        more_struct_aliases                 1.16.0   37544    None         2018-03-06 16:02:58 -0800
+accepted        non_modrs_mods                      1.30.0   44660    None         2018-09-08 19:41:46 -0700
 accepted        no_std                              1.6.0    None     None         2018-03-06 16:02:58 -0800
 accepted        panic_handler                       1.30.0   44489    None         2018-09-07 12:43:39 +0200
 accepted        proc_macro                          1.29.0   38356    None         2018-07-03 15:36:31 -0700
@@ -132,7 +134,6 @@ active          hexagon_target_feature              1.27.0   44839    None      
 active          if_while_or_patterns                1.26.0   48215    None         2018-03-06 16:02:58 -0800
 active          impl_header_lifetime_elision        1.30.0   15872    Edition2018  2018-08-03 00:08:44 -0700
 active          in_band_lifetimes                   1.23.0   44524    None         2018-08-04 00:36:46 -0700
-active          infer_outlives_requirements         1.26.0   44493    None         2017-10-15 01:13:56 -0400
 active          infer_static_outlives_requirements  1.26.0   44493    None         2018-07-26 20:25:27 -0400
 active          intrinsics                          1.0.0    None     None         2018-03-06 16:02:58 -0800
 active          irrefutable_let_patterns            1.27.0   44495    None         2018-06-08 11:25:35 -0400
@@ -159,7 +160,6 @@ active          no_core                             1.3.0    29639    None      
 active          no_debug                            1.5.0    29721    None         2018-03-06 16:02:58 -0800
 active          non_ascii_idents                    1.0.0    28979    None         2018-03-06 16:02:58 -0800
 active          non_exhaustive                      1.22.0   44109    None         2018-03-06 16:02:58 -0800
-active          non_modrs_mods                      1.24.0   44660    Edition2018  2018-04-04 13:58:38 -0700
 active          omit_gdb_pretty_printer_section     1.5.0    None     None         2018-03-06 16:02:58 -0800
 active          on_unimplemented                    1.0.0    29628    None         2018-03-06 16:02:58 -0800
 active          optin_builtin_traits                1.0.0    13231    None         2018-03-06 16:02:58 -0800
