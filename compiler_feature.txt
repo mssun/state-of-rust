@@ -186,6 +186,7 @@ active          rustc_const_unstable                1.0.0    None     None      
 active          rustc_diagnostic_macros             1.0.0    None     None         2018-03-06 16:02:58 -0800
 active          sanitizer_runtime                   1.17.0   None     None         2018-03-06 16:02:58 -0800
 active          self_in_typedefs                    1.30.0   49303    None         2018-08-14 18:45:44 +0100
+active          self_struct_ctor                    1.31.0   51994    None         2018-09-06 10:46:55 +0800
 active          simd_ffi                            1.0.0    27731    None         2018-03-06 16:02:58 -0800
 active          slice_patterns                      1.0.0    23121    None         2018-03-06 16:02:58 -0800
 active          specialization                      1.7.0    31844    None         2018-03-06 16:02:58 -0800
