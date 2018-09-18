@@ -247,6 +247,7 @@ RFC                                               Feature Name
 2345-const-panic.md                               const_panic
 2349-pin.md                                       pin
 2351-is-sorted.md                                 is_sorted
+2361-dbg-macro.md                                 dbg_macro
 2386-used.md                                      used
 2388-try-expr.md                                  try_expr
 2394-async_await.md                               async_await
