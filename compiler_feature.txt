@@ -86,6 +86,7 @@ active          asm                                 1.0.0    29722    None      
 active          associated_type_defaults            1.2.0    29661    None         2018-03-06 16:02:58 -0800
 active          async_await                         1.28.0   50547    None         2018-06-06 15:50:59 -0700
 active          avx512_target_feature               1.27.0   44839    None         2018-05-26 23:39:31 +0800
+active          bind_by_move_pattern_guards         1.30.0   15287    None         2018-09-07 17:52:27 +0200
 active          box_patterns                        1.0.0    29641    None         2018-03-06 16:02:58 -0800
 active          box_syntax                          1.0.0    49733    None         2018-05-25 22:37:25 +0200
 active          cfg_target_has_atomic               1.9.0    32976    None         2018-03-06 16:02:58 -0800
