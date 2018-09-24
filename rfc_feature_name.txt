@@ -248,12 +248,15 @@ RFC                                               Feature Name
 2349-pin.md                                       pin
 2351-is-sorted.md                                 is_sorted
 2361-dbg-macro.md                                 dbg_macro
+2383-lint-reasons.md                              lint_reasons
 2386-used.md                                      used
 2388-try-expr.md                                  try_expr
 2394-async_await.md                               async_await
 2397-do-not-recommend.md                          do_not_recommend
 2420-unreserve-proc.md                            unreserve_proc
 2421-unreservations-2018.md                       unreservations
+2437-rustfmt-stability.md                         rustfmt_stability
+2438-deny-integer-literal-overflow-lint.md        deny_integer_literal_overflow_lint
 2471-lint-test-inner-function.md                  lint_test_inner_function
 2497-if-let-chains.md                             let_chains_2
 2504-fix-error.md                                 fix_error
