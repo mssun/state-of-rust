@@ -67,7 +67,7 @@ RFC                                               Feature Name
 1252-open-options.md                              expand_open_options
 1257-drain-range-2.md                             drain-range
 1260-main-reexport.md                             main_reexport
-1268-allow-overlapping-impls-on-marker-traits.md  Allow overlapping impls for marker traits
+1268-allow-overlapping-impls-on-marker-traits.md  overlapping_marker_traits
 1270-deprecation.md                               Public Stability
 1288-time-improvements.md                         time_improvements
 1291-promote-libc.md                              N/A
