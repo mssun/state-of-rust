@@ -175,10 +175,7 @@ active          plugin                              1.0.0    29597    None      
 active          plugin_registrar                    1.0.0    29597    None         2018-03-06 16:02:58 -0800
 active          powerpc_target_feature              1.27.0   44839    None         2018-05-26 23:39:31 +0800
 active          prelude_import                      1.2.0    None     None         2018-03-06 16:02:58 -0800
-active          proc_macro_expr                     1.27.0   54727    None         2018-10-01 10:58:21 -0700
-active          proc_macro_gen                      1.27.0   54727    None         2018-10-01 10:58:21 -0700
-active          proc_macro_mod                      1.27.0   54727    None         2018-10-01 10:58:21 -0700
-active          proc_macro_non_items                1.27.0   54727    None         2018-10-01 10:58:21 -0700
+active          proc_macro_hygiene                  1.30.0   54727    None         2018-07-05 19:09:35 -0600
 active          profiler_runtime                    1.18.0   None     None         2018-03-06 16:02:58 -0800
 active          quote                               1.0.0    29601    None         2018-03-06 16:02:58 -0800
 active          repr128                             1.16.0   35118    None         2018-03-06 16:02:58 -0800
@@ -223,6 +220,10 @@ removed         macro_reexport                      1.0.0    29638    None      
 removed         managed_boxes                       1.0.0    None     None         2018-04-29 17:58:51 +0300
 removed         negate_unsigned                     1.0.0    29645    None         2018-04-29 17:58:51 +0300
 removed         opt_out_copy                        1.0.0    None     None         2018-04-29 17:58:51 +0300
+removed         proc_macro_expr                     1.27.0   54727    None         2018-07-05 19:09:35 -0600
+removed         proc_macro_gen                      1.27.0   54727    None         2018-07-05 19:09:35 -0600
+removed         proc_macro_mod                      1.27.0   54727    None         2018-07-05 19:09:35 -0600
+removed         proc_macro_non_items                1.27.0   54727    None         2018-07-05 19:09:35 -0600
 removed         pushpop_unsafe                      1.2.0    None     None         2018-04-29 17:58:51 +0300
 removed         quad_precision_float                1.0.0    None     None         2018-04-29 17:58:51 +0300
 removed         reflect                             1.0.0    27749    None         2018-04-29 17:58:51 +0300
