@@ -262,5 +262,6 @@ RFC                                               Feature Name
 2497-if-let-chains.md                             let_chains_2
 2504-fix-error.md                                 fix_error
 2521-c_void-reunification.md                      c_void_reunification
+2526-const-wildcard.md                            const_wildcard
 2535-or-patterns.md                               or_patterns
 2539-cfg_attr-multiple-attrs.md                   cfg_attr_multi
