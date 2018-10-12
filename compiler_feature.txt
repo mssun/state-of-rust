@@ -63,6 +63,7 @@ accepted        termination_trait                   1.26.0   43301    None      
 accepted        termination_trait_test              1.27.0   48854    None         2018-06-05 23:28:32 +0530
 accepted        test_accepted_feature               1.0.0    None     None         2018-03-06 16:02:58 -0800
 accepted        tool_attributes                     1.30.0   44690    None         2018-08-18 00:52:34 +0300
+accepted        tool_lints                          1.31.0   44690    None         2018-10-02 10:37:56 +0200
 accepted        tuple_indexing                      1.0.0    None     None         2018-03-06 16:02:58 -0800
 accepted        type_macros                         1.13.0   27245    None         2018-03-06 16:02:58 -0800
 accepted        underscore_lifetimes                1.26.0   44524    None         2018-03-28 17:25:39 +0200
@@ -94,6 +95,7 @@ active          avx512_target_feature               1.27.0   44839    None      
 active          bind_by_move_pattern_guards         1.30.0   15287    None         2018-09-07 17:52:27 +0200
 active          box_patterns                        1.0.0    29641    None         2018-03-06 16:02:58 -0800
 active          box_syntax                          1.0.0    49733    None         2018-05-25 22:37:25 +0200
+active          cfg_attr_multi                      1.31.0   54881    None         2018-10-07 21:48:28 -0700
 active          cfg_target_has_atomic               1.9.0    32976    None         2018-03-06 16:02:58 -0800
 active          cfg_target_thread_local             1.7.0    29594    None         2018-03-06 16:02:58 -0800
 active          cfg_target_vendor                   1.5.0    29718    None         2018-03-06 16:02:58 -0800
@@ -198,7 +200,6 @@ active          stmt_expr_attributes                1.6.0    15701    None      
 active          structural_match                    1.8.0    31434    None         2018-03-06 16:02:58 -0800
 active          tbm_target_feature                  1.27.0   44839    None         2018-05-26 23:39:31 +0800
 active          thread_local                        1.0.0    29594    None         2018-03-06 16:02:58 -0800
-active          tool_lints                          1.28.0   44690    None         2018-07-03 13:50:48 +0200
 active          trace_macros                        1.0.0    29598    None         2018-03-06 16:02:58 -0800
 active          trait_alias                         1.24.0   41517    None         2018-03-06 16:02:58 -0800
 active          trivial_bounds                      1.28.0   48214    None         2018-05-06 22:50:35 +0100
