@@ -206,6 +206,7 @@ active          trivial_bounds                      1.28.0   48214    None      
 active          try_blocks                          1.29.0   31436    None         2018-07-24 18:03:25 -0700
 active          type_ascription                     1.6.0    23416    None         2018-03-06 16:02:58 -0800
 active          unboxed_closures                    1.0.0    29625    None         2018-03-06 16:02:58 -0800
+active          underscore_const_names              1.31.0   54912    None         2018-10-12 00:34:26 +0200
 active          underscore_imports                  1.26.0   48216    None         2018-03-11 00:18:05 +0300
 active          uniform_paths                       1.30.0   53130    None         2018-08-09 23:50:04 +0300
 active          unrestricted_attribute_tokens       1.30.0   44690    None         2018-08-11 16:40:08 +0300
