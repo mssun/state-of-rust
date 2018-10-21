@@ -259,6 +259,7 @@ RFC                                               Feature Name
 2437-rustfmt-stability.md                         rustfmt_stability
 2438-deny-integer-literal-overflow-lint.md        deny_integer_literal_overflow_lint
 2471-lint-test-inner-function.md                  lint_test_inner_function
+2476-clippy-uno.md                                clippy_uno
 2497-if-let-chains.md                             let_chains_2
 2504-fix-error.md                                 fix_error
 2514-union-initialization-and-drop.md             union_initialization_and_drop
