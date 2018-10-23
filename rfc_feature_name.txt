@@ -256,6 +256,7 @@ RFC                                               Feature Name
 2412-optimize-attr.md                             optimize_attr
 2420-unreserve-proc.md                            unreserve_proc
 2421-unreservations-2018.md                       unreservations
+2436-style-guide.md                               N/A
 2437-rustfmt-stability.md                         rustfmt_stability
 2438-deny-integer-literal-overflow-lint.md        deny_integer_literal_overflow_lint
 2471-lint-test-inner-function.md                  lint_test_inner_function
