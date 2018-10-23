@@ -28,6 +28,7 @@ accepted        global_allocator                    1.28.0   27389    None      
 accepted        globs                               1.0.0    None     None         2018-03-06 16:02:58 -0800
 accepted        i128_type                           1.26.0   35118    None         2018-03-16 19:51:49 -0500
 accepted        if_let                              1.0.0    None     None         2018-03-06 16:02:58 -0800
+accepted        impl_header_lifetime_elision        1.31.0   15872    None         2018-10-03 00:27:12 -0700
 accepted        inclusive_range_syntax              1.26.0   28237    None         2018-01-28 03:19:29 +0800
 accepted        infer_outlives_requirements         1.30.0   44493    None         2018-08-28 00:46:08 -0400
 accepted        issue_5723_bootstrap                1.0.0    None     None         2018-03-06 16:02:58 -0800
@@ -137,7 +138,6 @@ active          generic_associated_types            1.23.0   44265    None      
 active          global_asm                          1.18.0   35119    None         2018-03-06 16:02:58 -0800
 active          hexagon_target_feature              1.27.0   44839    None         2018-05-26 23:39:31 +0800
 active          if_while_or_patterns                1.26.0   48215    None         2018-03-06 16:02:58 -0800
-active          impl_header_lifetime_elision        1.30.0   15872    Edition2018  2018-08-03 00:08:44 -0700
 active          impl_trait_in_bindings              1.30.0   34511    None         2018-09-08 07:52:03 +0100
 active          in_band_lifetimes                   1.23.0   44524    None         2018-08-04 00:36:46 -0700
 active          infer_static_outlives_requirements  1.26.0   44493    None         2018-07-26 20:25:27 -0400
@@ -199,6 +199,7 @@ active          static_nobundle                     1.16.0   37403    None      
 active          stmt_expr_attributes                1.6.0    15701    None         2018-03-06 16:02:58 -0800
 active          structural_match                    1.8.0    31434    None         2018-03-06 16:02:58 -0800
 active          tbm_target_feature                  1.27.0   44839    None         2018-05-26 23:39:31 +0800
+active          test_2018_feature                   1.31.0   0        Edition2018  2018-10-08 23:31:50 -0700
 active          thread_local                        1.0.0    29594    None         2018-03-06 16:02:58 -0800
 active          trace_macros                        1.0.0    29598    None         2018-03-06 16:02:58 -0800
 active          trait_alias                         1.24.0   41517    None         2018-03-06 16:02:58 -0800
