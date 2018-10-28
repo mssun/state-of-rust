@@ -150,6 +150,7 @@ active          linkage                             1.0.0    29603    None      
 active          link_args                           1.0.0    29596    None         2018-03-06 16:02:58 -0800
 active          link_cfg                            1.14.0   37406    None         2018-03-06 16:02:58 -0800
 active          link_llvm_intrinsics                1.0.0    29602    None         2018-03-06 16:02:58 -0800
+active          lint_reasons                        1.31.0   54503    None         2018-09-29 18:00:50 -0700
 active          log_syntax                          1.0.0    29598    None         2018-03-06 16:02:58 -0800
 active          macro_at_most_once_rep              1.25.0   48075    None         2018-03-06 16:02:58 -0800
 active          macro_literal_matcher               1.27.0   35625    None         2018-04-10 02:08:47 +0300
