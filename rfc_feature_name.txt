@@ -260,6 +260,7 @@ RFC                                               Feature Name
 2437-rustfmt-stability.md                         rustfmt_stability
 2438-deny-integer-literal-overflow-lint.md        deny_integer_literal_overflow_lint
 2451-re-rebalancing-coherence.md                  re_rebalancing_coherence
+2457-non-ascii-idents.md                          non_ascii_idents
 2471-lint-test-inner-function.md                  lint_test_inner_function
 2476-clippy-uno.md                                clippy_uno
 2497-if-let-chains.md                             let_chains_2
