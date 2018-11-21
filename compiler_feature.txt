@@ -20,6 +20,7 @@ accepted        dotdot_in_tuple_patterns            1.14.0   33627    None      
 accepted        drop_types_in_const                 1.22.0   33156    None         2018-03-06 16:02:58 -0800
 accepted        dyn_trait                           1.27.0   44662    None         2018-04-15 09:41:10 -0500
 accepted        extern_absolute_paths               1.30.0   44660    None         2018-09-20 20:39:46 +0300
+accepted        extern_crate_item_prelude           1.31.0   55599    None         2018-11-17 21:08:00 +0300
 accepted        extern_prelude                      1.30.0   44660    None         2018-09-20 20:39:46 +0300
 accepted        field_init_shorthand                1.17.0   37340    None         2018-03-06 16:02:58 -0800
 accepted        fn_must_use                         1.27.0   43302    None         2018-03-10 16:23:28 -0800
@@ -129,7 +130,6 @@ active          exhaustive_integer_patterns         1.30.0   50907    None      
 active          exhaustive_patterns                 1.13.0   51085    None         2018-05-26 23:39:31 +0800
 active          existential_type                    1.28.0   34511    None         2018-07-03 19:38:14 +0200
 active          external_doc                        1.22.0   44732    None         2018-03-06 16:02:58 -0800
-active          extern_crate_item_prelude           1.31.0   55599    None         2018-11-02 01:43:18 +0300
 active          extern_in_paths                     1.23.0   55600    None         2018-11-02 01:43:18 +0300
 active          extern_types                        1.23.0   43467    None         2018-03-06 16:02:58 -0800
 active          format_args_nl                      1.29.0   None     None         2018-07-21 15:50:46 -0700
