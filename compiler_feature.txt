@@ -36,6 +36,7 @@ accepted        issue_5723_bootstrap                1.0.0    None     None      
 accepted        item_like_imports                   1.15.0   35120    None         2018-03-06 16:02:58 -0800
 accepted        loop_break_value                    1.19.0   37339    None         2018-03-06 16:02:58 -0800
 accepted        macro_lifetime_matcher              1.27.0   34303    None         2018-05-02 03:02:05 +0000
+accepted        macro_literal_matcher               1.31.0   35625    None         2018-11-19 16:32:18 +0200
 accepted        macro_rules                         1.0.0    None     None         2018-03-06 16:02:58 -0800
 accepted        macro_vis_matcher                   1.30.0   41022    None         2018-08-25 17:49:45 +0100
 accepted        match_beginning_vert                1.25.0   44101    None         2018-03-06 16:02:58 -0800
@@ -153,7 +154,6 @@ active          link_llvm_intrinsics                1.0.0    29602    None      
 active          lint_reasons                        1.31.0   54503    None         2018-09-29 18:00:50 -0700
 active          log_syntax                          1.0.0    29598    None         2018-03-06 16:02:58 -0800
 active          macro_at_most_once_rep              1.25.0   48075    None         2018-03-06 16:02:58 -0800
-active          macro_literal_matcher               1.27.0   35625    None         2018-04-10 02:08:47 +0300
 active          macros_in_extern                    1.27.0   49476    None         2018-03-10 18:16:26 -0800
 active          main                                1.0.0    29634    None         2018-03-06 16:02:58 -0800
 active          marker_trait_attr                   1.30.0   29864    None         2018-08-25 00:54:41 -0700
