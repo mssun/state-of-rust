@@ -57,6 +57,7 @@ accepted        relaxed_adts                        1.19.0   35626    None      
 accepted        repr_align                          1.25.0   33626    None         2018-03-06 16:02:58 -0800
 accepted        repr_transparent                    1.28.0   43036    None         2018-06-06 13:24:16 +0200
 accepted        rvalue_static_promotion             1.21.0   38865    None         2018-03-06 16:02:58 -0800
+accepted        self_struct_ctor                    1.32.0   51994    None         2018-11-30 02:57:30 +0000
 accepted        slicing_syntax                      1.0.0    None     None         2018-03-06 16:02:58 -0800
 accepted        static_in_const                     1.17.0   35897    None         2018-03-06 16:02:58 -0800
 accepted        static_recursion                    1.17.0   29719    None         2018-03-06 16:02:58 -0800
@@ -189,7 +190,6 @@ active          rustc_const_unstable                1.0.0    None     None      
 active          rustc_diagnostic_macros             1.0.0    None     None         2018-03-06 16:02:58 -0800
 active          sanitizer_runtime                   1.17.0   None     None         2018-03-06 16:02:58 -0800
 active          self_in_typedefs                    1.30.0   49303    None         2018-08-14 18:45:44 +0100
-active          self_struct_ctor                    1.30.0   51994    None         2018-09-08 07:52:03 +0100
 active          simd_ffi                            1.0.0    27731    None         2018-03-06 16:02:58 -0800
 active          slice_patterns                      1.0.0    23121    None         2018-03-06 16:02:58 -0800
 active          specialization                      1.7.0    31844    None         2018-03-06 16:02:58 -0800
