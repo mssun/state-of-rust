@@ -272,3 +272,4 @@ RFC                                               Feature Name
 2535-or-patterns.md                               or_patterns
 2539-cfg_attr-multiple-attrs.md                   cfg_attr_multi
 2561-future-possibilities.md                      future_possibilities
+2591-exhaustive-integer-pattern-matching.md       exhaustive_integer_patterns
