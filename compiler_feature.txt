@@ -57,6 +57,7 @@ accepted        relaxed_adts                        1.19.0   35626    None      
 accepted        repr_align                          1.25.0   33626    None         2018-03-06 16:02:58 -0800
 accepted        repr_transparent                    1.28.0   43036    None         2018-06-06 13:24:16 +0200
 accepted        rvalue_static_promotion             1.21.0   38865    None         2018-03-06 16:02:58 -0800
+accepted        self_in_typedefs                    1.32.0   49303    None         2018-11-30 03:55:26 +0000
 accepted        self_struct_ctor                    1.32.0   51994    None         2018-11-30 02:57:30 +0000
 accepted        slicing_syntax                      1.0.0    None     None         2018-03-06 16:02:58 -0800
 accepted        static_in_const                     1.17.0   35897    None         2018-03-06 16:02:58 -0800
@@ -133,7 +134,7 @@ active          exhaustive_integer_patterns         1.30.0   50907    None      
 active          exhaustive_patterns                 1.13.0   51085    None         2018-05-26 23:39:31 +0800
 active          existential_type                    1.28.0   34511    None         2018-07-03 19:38:14 +0200
 active          external_doc                        1.22.0   44732    None         2018-03-06 16:02:58 -0800
-active          extern_crate_self                   1.31.0   54658    None         2018-10-26 01:39:47 +0300
+active          extern_crate_self                   1.31.0   56409    None         2018-12-01 18:58:43 +0300
 active          extern_in_paths                     1.23.0   55600    None         2018-11-02 01:43:18 +0300
 active          extern_types                        1.23.0   43467    None         2018-03-06 16:02:58 -0800
 active          format_args_nl                      1.29.0   None     None         2018-07-21 15:50:46 -0700
@@ -190,7 +191,6 @@ active          rustc_attrs                         1.0.0    29642    None      
 active          rustc_const_unstable                1.0.0    None     None         2018-03-06 16:02:58 -0800
 active          rustc_diagnostic_macros             1.0.0    None     None         2018-03-06 16:02:58 -0800
 active          sanitizer_runtime                   1.17.0   None     None         2018-03-06 16:02:58 -0800
-active          self_in_typedefs                    1.30.0   49303    None         2018-08-14 18:45:44 +0100
 active          simd_ffi                            1.0.0    27731    None         2018-03-06 16:02:58 -0800
 active          slice_patterns                      1.0.0    23121    None         2018-03-06 16:02:58 -0800
 active          specialization                      1.7.0    31844    None         2018-03-06 16:02:58 -0800
