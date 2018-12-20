@@ -89,6 +89,7 @@ active          abi_thiscall                        1.19.0   None     None      
 active          abi_unadjusted                      1.16.0   None     None         2018-03-06 16:02:58 -0800
 active          abi_vectorcall                      1.7.0    None     None         2018-03-06 16:02:58 -0800
 active          abi_x86_interrupt                   1.17.0   40180    None         2018-03-06 16:02:58 -0800
+active          adx_target_feature                  1.32.0   44839    None         2018-12-16 19:01:43 -0800
 active          allocator_internals                 1.20.0   None     None         2018-03-06 16:02:58 -0800
 active          alloc_error_handler                 1.29.0   51540    None         2018-07-06 15:49:52 +0200
 active          allow_fail                          1.19.0   46488    None         2018-11-02 01:43:18 +0300
@@ -107,6 +108,7 @@ active          cfg_attr_multi                      1.31.0   54881    None      
 active          cfg_target_has_atomic               1.9.0    32976    None         2018-03-06 16:02:58 -0800
 active          cfg_target_thread_local             1.7.0    29594    None         2018-03-06 16:02:58 -0800
 active          cfg_target_vendor                   1.5.0    29718    None         2018-03-06 16:02:58 -0800
+active          cmpxchg16b_target_feature           1.32.0   44839    None         2018-12-16 19:01:43 -0800
 active          compiler_builtins                   1.13.0   None     None         2018-03-06 16:02:58 -0800
 active          concat_idents                       1.0.0    29599    None         2018-03-06 16:02:58 -0800
 active          const_compare_raw_pointers          1.27.0   53020    None         2018-08-03 11:12:10 +0200
