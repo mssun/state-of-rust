@@ -44,6 +44,7 @@ accepted        macro_vis_matcher                   1.30.0   41022    None      
 accepted        match_beginning_vert                1.25.0   44101    None         2018-03-06 16:02:58 -0800
 accepted        match_default_bindings              1.26.0   42640    None         2018-03-26 23:39:29 +0200
 accepted        min_const_fn                        1.31.0   53555    None         2018-10-05 12:29:03 +0200
+accepted        min_const_unsafe_fn                 1.33.0   55607    None         2018-12-22 18:06:20 +0100
 accepted        more_struct_aliases                 1.16.0   37544    None         2018-03-06 16:02:58 -0800
 accepted        non_modrs_mods                      1.30.0   44660    None         2018-09-08 19:41:46 -0700
 accepted        no_std                              1.6.0    None     None         2018-03-06 16:02:58 -0800
@@ -163,7 +164,6 @@ active          log_syntax                          1.0.0    29598    None      
 active          macros_in_extern                    1.27.0   49476    None         2018-03-10 18:16:26 -0800
 active          main                                1.0.0    29634    None         2018-03-06 16:02:58 -0800
 active          marker_trait_attr                   1.30.0   29864    None         2018-08-25 00:54:41 -0700
-active          min_const_unsafe_fn                 1.31.0   55607    None         2018-11-03 00:22:12 +0100
 active          mips_target_feature                 1.27.0   44839    None         2018-05-26 23:39:31 +0800
 active          mmx_target_feature                  1.27.0   44839    None         2018-05-26 23:39:31 +0800
 active          naked_functions                     1.9.0    32408    None         2018-03-06 16:02:58 -0800
