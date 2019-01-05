@@ -191,6 +191,7 @@ active          profiler_runtime                    1.18.0   None     None      
 active          quote                               1.0.0    29601    None         2018-03-06 16:02:58 -0800
 active          repr128                             1.16.0   35118    None         2018-03-06 16:02:58 -0800
 active          repr_simd                           1.4.0    27731    None         2018-03-06 16:02:58 -0800
+active          re_rebalance_coherence              1.32.0   55437    None         2018-11-20 23:37:19 +0100
 active          rustc_attrs                         1.0.0    29642    None         2018-03-06 16:02:58 -0800
 active          rustc_const_unstable                1.0.0    None     None         2018-03-06 16:02:58 -0800
 active          rustc_diagnostic_macros             1.0.0    None     None         2018-03-06 16:02:58 -0800
