@@ -5,6 +5,7 @@ accepted        associated_types                    1.0.0    None     None      
 accepted        attr_literals                       1.30.0   34981    None         2018-08-03 15:05:05 -0700
 accepted        augmented_assignments               1.8.0    28235    None         2018-03-06 16:02:58 -0800
 accepted        braced_empty_structs                1.8.0    29720    None         2018-03-06 16:02:58 -0800
+accepted        cfg_attr_multi                      1.33.0   54881    None         2019-01-04 12:37:27 +0530
 accepted        cfg_target_feature                  1.27.0   29717    None         2018-04-03 11:11:49 -0700
 accepted        clone_closures                      1.26.0   44490    None         2018-03-23 10:57:28 +0100
 accepted        closure_to_fn_coercion              1.19.0   39817    None         2018-03-06 16:02:58 -0800
@@ -106,7 +107,6 @@ active          avx512_target_feature               1.27.0   44839    None      
 active          bind_by_move_pattern_guards         1.30.0   15287    None         2018-09-07 17:52:27 +0200
 active          box_patterns                        1.0.0    29641    None         2018-03-06 16:02:58 -0800
 active          box_syntax                          1.0.0    49733    None         2018-05-25 22:37:25 +0200
-active          cfg_attr_multi                      1.31.0   54881    None         2018-10-07 21:48:28 -0700
 active          cfg_target_has_atomic               1.9.0    32976    None         2018-03-06 16:02:58 -0800
 active          cfg_target_thread_local             1.7.0    29594    None         2018-03-06 16:02:58 -0800
 active          cfg_target_vendor                   1.5.0    29718    None         2018-03-06 16:02:58 -0800
