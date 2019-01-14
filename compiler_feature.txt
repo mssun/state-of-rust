@@ -118,7 +118,7 @@ active          cmpxchg16b_target_feature           1.32.0   44839    None      
 active          compiler_builtins                   1.13.0   None     None         2018-03-06 16:02:58 -0800
 active          concat_idents                       1.0.0    29599    None         2018-03-06 16:02:58 -0800
 active          const_compare_raw_pointers          1.27.0   53020    None         2018-08-03 11:12:10 +0200
-active          const_fn                            1.2.0    24111    None         2018-03-06 16:02:58 -0800
+active          const_fn                            1.2.0    57563    None         2019-01-13 01:55:44 +0000
 active          const_fn_union                      1.27.0   51909    None         2018-07-02 19:00:07 +0200
 active          const_panic                         1.30.0   51999    None         2018-08-13 14:27:29 +0200
 active          const_raw_ptr_deref                 1.27.0   51911    None         2018-07-02 19:00:07 +0200
