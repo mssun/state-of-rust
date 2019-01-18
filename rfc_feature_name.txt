@@ -225,6 +225,7 @@ RFC                                               Feature Name
 2226-fmt-debug-hex.md                             fmt-debug-hex
 2229-capture-disjoint-fields.md                   capture_disjoint_fields
 2230-bury-description.md                          optional_error_description
+2235-libc-struct-traits.md                        libc_struct_traits
 2250-finalize-impl-dyn-syntax.md                  N/A
 2282-profile-dependencies.md                      profile_dependencies
 2289-associated-type-bounds.md                    associated_type_bounds
