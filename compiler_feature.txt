@@ -188,7 +188,6 @@ active          precise_pointer_size_matching       1.32.0   56354    None      
 active          prelude_import                      1.2.0    None     None         2018-03-06 16:02:58 -0800
 active          proc_macro_hygiene                  1.30.0   54727    None         2018-07-05 19:09:35 -0600
 active          profiler_runtime                    1.18.0   None     None         2018-03-06 16:02:58 -0800
-active          quote                               1.0.0    29601    None         2018-03-06 16:02:58 -0800
 active          repr128                             1.16.0   35118    None         2018-03-06 16:02:58 -0800
 active          repr_simd                           1.4.0    27731    None         2018-03-06 16:02:58 -0800
 active          re_rebalance_coherence              1.32.0   55437    None         2018-11-20 23:37:19 +0100
@@ -238,6 +237,7 @@ removed         proc_macro_mod                      1.27.0   54727    None      
 removed         proc_macro_non_items                1.27.0   54727    None         2018-07-05 19:09:35 -0600
 removed         pushpop_unsafe                      1.2.0    None     None         2018-04-29 17:58:51 +0300
 removed         quad_precision_float                1.0.0    None     None         2018-04-29 17:58:51 +0300
+removed         quote                               1.0.0    29601    None         2018-06-01 16:40:33 -0600
 removed         reflect                             1.0.0    27749    None         2018-04-29 17:58:51 +0300
 removed         simd                                1.0.0    27731    None         2018-04-29 17:58:51 +0300
 removed         struct_inherit                      1.0.0    None     None         2018-04-29 17:58:51 +0300
