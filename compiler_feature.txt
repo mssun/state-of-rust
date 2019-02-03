@@ -83,7 +83,7 @@ accepted        tuple_indexing                      1.0.0    None     None      
 accepted        type_macros                         1.13.0   27245    None         2018-03-06 16:02:58 -0800
 accepted        underscore_imports                  1.33.0   48216    None         2018-11-28 02:58:18 +0300
 accepted        underscore_lifetimes                1.26.0   44524    None         2018-03-28 17:25:39 +0200
-accepted        uniform_paths                       1.32.0   53130    None         2018-12-27 03:38:43 +0300
+accepted        uniform_paths                       1.32.0   53130    None         2019-02-02 07:42:27 +0100
 accepted        universal_impl_trait                1.26.0   34511    None         2018-03-21 17:44:21 -0700
 accepted        used                                1.30.0   40289    None         2018-09-10 14:34:04 +0200
 accepted        use_extern_macros                   1.30.0   35896    None         2018-05-14 03:22:52 +0300
