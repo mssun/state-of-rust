@@ -191,6 +191,7 @@ active          prelude_import                      1.2.0    None     None      
 active          proc_macro_hygiene                  1.30.0   54727    None         2018-07-05 19:09:35 -0600
 active          profiler_runtime                    1.18.0   None     None         2018-03-06 16:02:58 -0800
 active          repr128                             1.16.0   35118    None         2018-03-06 16:02:58 -0800
+active          repr_align_enum                     1.34.0   57996    None         2019-01-30 14:14:16 +0100
 active          repr_simd                           1.4.0    27731    None         2018-03-06 16:02:58 -0800
 active          re_rebalance_coherence              1.32.0   55437    None         2018-11-20 23:37:19 +0100
 active          rustc_attrs                         1.0.0    29642    None         2018-03-06 16:02:58 -0800
