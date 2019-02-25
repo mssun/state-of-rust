@@ -144,6 +144,7 @@ active          exhaustive_patterns                 1.13.0   51085    None      
 active          existential_type                    1.28.0   34511    None         2018-07-03 19:38:14 +0200
 active          external_doc                        1.22.0   44732    None         2018-03-06 16:02:58 -0800
 active          extern_types                        1.23.0   43467    None         2018-03-06 16:02:58 -0800
+active          ffi_returns_twice                   1.34.0   58314    None         2019-02-09 15:55:30 +0100
 active          format_args_nl                      1.29.0   None     None         2018-07-21 15:50:46 -0700
 active          fundamental                         1.0.0    29635    None         2018-03-06 16:02:58 -0800
 active          generators                          1.21.0   43122    None         2018-05-26 23:39:31 +0800
