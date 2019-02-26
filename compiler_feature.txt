@@ -85,6 +85,7 @@ accepted        underscore_imports                  1.33.0   48216    None      
 accepted        underscore_lifetimes                1.26.0   44524    None         2018-03-28 17:25:39 +0200
 accepted        uniform_paths                       1.32.0   53130    None         2019-02-02 07:42:27 +0100
 accepted        universal_impl_trait                1.26.0   34511    None         2018-03-21 17:44:21 -0700
+accepted        unrestricted_attribute_tokens       1.34.0   55208    None         2019-02-25 22:40:44 +0300
 accepted        used                                1.30.0   40289    None         2018-09-10 14:34:04 +0200
 accepted        use_extern_macros                   1.30.0   35896    None         2018-05-14 03:22:52 +0300
 accepted        use_nested_groups                   1.25.0   44494    None         2018-03-06 16:02:58 -0800
@@ -220,7 +221,6 @@ active          type_alias_enum_variants            1.31.0   49683    None      
 active          type_ascription                     1.6.0    23416    None         2018-03-06 16:02:58 -0800
 active          unboxed_closures                    1.0.0    29625    None         2018-03-06 16:02:58 -0800
 active          underscore_const_names              1.31.0   54912    None         2018-10-12 00:34:26 +0200
-active          unrestricted_attribute_tokens       1.30.0   55208    None         2018-11-02 01:43:18 +0300
 active          unsized_locals                      1.30.0   48055    None         2018-05-29 00:10:09 +0900
 active          unsized_tuple_coercion              1.20.0   42877    None         2018-03-06 16:02:58 -0800
 active          untagged_unions                     1.13.0   32836    None         2018-03-06 16:02:58 -0800
