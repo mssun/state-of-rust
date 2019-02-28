@@ -224,7 +224,7 @@ active          underscore_const_names              1.31.0   54912    None      
 active          unsized_locals                      1.30.0   48055    None         2018-05-29 00:10:09 +0900
 active          unsized_tuple_coercion              1.20.0   42877    None         2018-03-06 16:02:58 -0800
 active          untagged_unions                     1.13.0   32836    None         2018-03-06 16:02:58 -0800
-active          unwind_attributes                   1.4.0    None     None         2018-03-06 16:02:58 -0800
+active          unwind_attributes                   1.4.0    58760    None         2019-02-26 12:20:38 -0700
 active          wasm_target_feature                 1.30.0   44839    None         2018-08-08 01:43:00 +0200
 removed         advanced_slice_patterns             1.0.0    23121    None         2018-04-29 17:58:51 +0300
 removed         allocator                           1.0.0    None     None         2018-04-29 17:58:51 +0300
