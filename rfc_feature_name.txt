@@ -264,6 +264,7 @@ RFC                                               Feature Name
 2457-non-ascii-idents.md                          non_ascii_idents
 2471-lint-test-inner-function.md                  lint_test_inner_function
 2476-clippy-uno.md                                clippy_uno
+2480-liballoc.md                                  liballoc
 2497-if-let-chains.md                             let_chains_2
 2500-needle.md                                    needle
 2504-fix-error.md                                 fix_error
