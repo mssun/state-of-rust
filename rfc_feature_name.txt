@@ -275,8 +275,10 @@ RFC                                               Feature Name
 2535-or-patterns.md                               or_patterns
 2539-cfg_attr-multiple-attrs.md                   cfg_attr_multi
 2561-future-possibilities.md                      future_possibilities
+2565-formal-function-parameter-attributes.md      param_attrs
 2570-linked-list-cursors.md                       linked_list_cursors
 2591-exhaustive-integer-pattern-matching.md       exhaustive_integer_patterns
 2592-futures.md                                   futures_api
 2627-raw-dylib-kind.md                            raw_dylib_kind
+2645-transparent-unions.md                        transparent_enunions
 2657-roadmap-2019.md                              N/A
