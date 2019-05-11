@@ -280,6 +280,7 @@ RFC                                               Feature Name
 2570-linked-list-cursors.md                       linked_list_cursors
 2591-exhaustive-integer-pattern-matching.md       exhaustive_integer_patterns
 2592-futures.md                                   futures_api
+2603-symbol-name-mangling-v2.md                   symbol_name_mangling_v2
 2627-raw-dylib-kind.md                            raw_dylib_kind
 2645-transparent-unions.md                        transparent_enunions
 2657-roadmap-2019.md                              N/A
