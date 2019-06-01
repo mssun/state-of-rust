@@ -284,4 +284,5 @@ RFC                                               Feature Name
 2627-raw-dylib-kind.md                            raw_dylib_kind
 2645-transparent-unions.md                        transparent_enunions
 2657-roadmap-2019.md                              N/A
+2678-named-custom-cargo-profiles.md               custom_named_cargo_profiles
 2689-compiler-team-contributors.md                N/A
