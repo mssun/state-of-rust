@@ -63,6 +63,7 @@ accepted        question_mark                       1.13.0   31436    None      
 accepted        raw_identifiers                     1.30.0   48589    None         2018-08-09 21:51:12 +0100
 accepted        relaxed_adts                        1.19.0   35626    None         2018-03-06 16:02:58 -0800
 accepted        repr_align                          1.25.0   33626    None         2018-03-06 16:02:58 -0800
+accepted        repr_align_enum                     1.37.0   57996    None         2019-05-27 07:26:11 +0200
 accepted        repr_packed                         1.33.0   33158    None         2018-12-21 10:18:38 -0800
 accepted        repr_transparent                    1.28.0   43036    None         2018-06-06 13:24:16 +0200
 accepted        rvalue_static_promotion             1.21.0   38865    None         2018-03-06 16:02:58 -0800
@@ -198,7 +199,6 @@ active          prelude_import                      1.2.0    None     None      
 active          proc_macro_hygiene                  1.30.0   54727    None         2019-04-29 01:46:45 +0200
 active          profiler_runtime                    1.18.0   None     None         2019-04-29 01:46:45 +0200
 active          repr128                             1.16.0   35118    None         2018-03-06 16:02:58 -0800
-active          repr_align_enum                     1.34.0   57996    None         2019-01-30 14:14:16 +0100
 active          repr_simd                           1.4.0    27731    None         2018-03-06 16:02:58 -0800
 active          re_rebalance_coherence              1.32.0   55437    None         2018-11-20 23:37:19 +0100
 active          rtm_target_feature                  1.35.0   44839    None         2019-04-29 01:46:45 +0200
