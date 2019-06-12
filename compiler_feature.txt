@@ -220,6 +220,8 @@ active          test_2018_feature                   1.31.0   0        Edition201
 active          thread_local                        1.0.0    29594    None         2019-04-29 01:46:45 +0200
 active          trace_macros                        1.0.0    29598    None         2019-04-29 01:46:45 +0200
 active          trait_alias                         1.24.0   41517    None         2019-04-29 01:46:45 +0200
+active          transparent_enums                   1.37.0   60405    None         2019-05-22 07:31:09 -0700
+active          transparent_unions                  1.37.0   60405    None         2019-05-22 07:31:09 -0700
 active          trivial_bounds                      1.28.0   48214    None         2018-05-06 22:50:35 +0100
 active          try_blocks                          1.29.0   31436    None         2019-04-29 01:46:45 +0200
 active          type_alias_enum_variants            1.31.0   49683    None         2018-12-03 21:50:49 +0000
