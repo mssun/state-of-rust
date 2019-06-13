@@ -190,6 +190,7 @@ active          optimize_attribute                  1.34.0   54882    None      
 active          optin_builtin_traits                1.0.0    13231    None         2019-04-29 01:46:45 +0200
 active          overlapping_marker_traits           1.18.0   29864    None         2018-03-06 16:02:58 -0800
 active          panic_runtime                       1.10.0   32837    None         2019-04-29 01:46:45 +0200
+active          param_attrs                         1.36.0   60406    None         2019-06-09 07:58:40 -0300
 active          platform_intrinsics                 1.4.0    27731    None         2018-03-06 16:02:58 -0800
 active          plugin                              1.0.0    29597    None         2019-04-29 01:46:45 +0200
 active          plugin_registrar                    1.0.0    29597    None         2019-04-29 01:46:45 +0200
