@@ -82,6 +82,7 @@ accepted        tool_attributes                     1.30.0   44690    None      
 accepted        tool_lints                          1.31.0   44690    None         2018-10-02 10:37:56 +0200
 accepted        tuple_indexing                      1.0.0    None     None         2018-03-06 16:02:58 -0800
 accepted        type_macros                         1.13.0   27245    None         2019-04-28 16:14:21 +0200
+accepted        underscore_const_names              1.37.0   54912    None         2019-05-30 12:30:03 +0200
 accepted        underscore_imports                  1.33.0   48216    None         2018-11-28 02:58:18 +0300
 accepted        underscore_lifetimes                1.26.0   44524    None         2018-03-28 17:25:39 +0200
 accepted        uniform_paths                       1.32.0   53130    None         2019-02-02 07:42:27 +0100
@@ -228,7 +229,6 @@ active          try_blocks                          1.29.0   31436    None      
 active          type_alias_enum_variants            1.31.0   49683    None         2018-12-03 21:50:49 +0000
 active          type_ascription                     1.6.0    23416    None         2018-03-06 16:02:58 -0800
 active          unboxed_closures                    1.0.0    29625    None         2019-04-29 01:46:45 +0200
-active          underscore_const_names              1.31.0   54912    None         2018-10-12 00:34:26 +0200
 active          unsized_locals                      1.30.0   48055    None         2018-05-29 00:10:09 +0900
 active          unsized_tuple_coercion              1.20.0   42877    None         2018-03-06 16:02:58 -0800
 active          untagged_unions                     1.13.0   32836    None         2018-03-06 16:02:58 -0800
