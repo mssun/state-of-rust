@@ -107,6 +107,7 @@ active          alloc_error_handler                 1.29.0   51540    None      
 active          allow_fail                          1.19.0   46488    None         2018-11-02 01:43:18 +0300
 active          allow_internal_unsafe               1.0.0    None     None         2019-04-29 01:46:45 +0200
 active          allow_internal_unstable             1.0.0    None     None         2019-04-29 01:46:45 +0200
+active          arbitrary_enum_discriminant         1.37.0   60553    None         2019-05-09 17:08:55 -0400
 active          arbitrary_self_types                1.23.0   44874    None         2018-03-06 16:02:58 -0800
 active          arm_target_feature                  1.27.0   44839    None         2019-04-29 01:46:45 +0200
 active          asm                                 1.0.0    29722    None         2019-04-29 01:46:45 +0200
