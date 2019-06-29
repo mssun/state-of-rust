@@ -200,7 +200,7 @@ RFC                                               Feature Name
 2089-implied-bounds.md                            implied_bounds
 2091-inline-semantic.md                           track_caller
 2093-infer-outlives.md                            infer_outlives
-2094-nll.md                                       (fill me in with a unique ident, my_awesome_feature)
+2094-nll.md                                       nll
 2102-unnamed-fields.md                            unnamed_fields
 2103-tool-attributes.md                           tool_attributes, tool_lints
 2113-dyn-trait-syntax.md                          dyn-trait-syntax
