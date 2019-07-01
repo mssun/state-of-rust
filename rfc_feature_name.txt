@@ -248,6 +248,7 @@ RFC                                               Feature Name
 2345-const-panic.md                               const_panic
 2349-pin.md                                       pin
 2351-is-sorted.md                                 is_sorted
+2359-subslice-pattern-syntax.md                   slice_patterns
 2361-dbg-macro.md                                 dbg_macro
 2363-arbitrary-enum-discriminant.md               arbitrary_enum_discriminant
 2383-lint-reasons.md                              lint_reasons
@@ -286,3 +287,4 @@ RFC                                               Feature Name
 2657-roadmap-2019.md                              N/A
 2678-named-custom-cargo-profiles.md               custom_named_cargo_profiles
 2689-compiler-team-contributors.md                N/A
+2707-dotdot-patterns.md                           dotdot_patterns
