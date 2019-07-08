@@ -287,4 +287,5 @@ RFC                                               Feature Name
 2657-roadmap-2019.md                              N/A
 2678-named-custom-cargo-profiles.md               custom_named_cargo_profiles
 2689-compiler-team-contributors.md                N/A
+2696-debug-map-key-value.md                       debug_map_key_value
 2707-dotdot-patterns.md                           dotdot_patterns
