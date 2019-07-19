@@ -132,6 +132,7 @@ active          const_constructor                   1.37.0   61456    None      
 active          const_fn                            1.2.0    57563    None         2019-04-29 01:46:45 +0200
 active          const_fn_union                      1.27.0   51909    None         2019-04-29 01:46:45 +0200
 active          const_generics                      1.34.0   44580    None         2019-02-05 16:49:10 +0100
+active          const_in_array_repeat_expressions   1.37.0   49147    None         2019-06-12 07:56:07 +0100
 active          const_panic                         1.30.0   51999    None         2019-04-29 01:46:45 +0200
 active          const_raw_ptr_deref                 1.27.0   51911    None         2019-04-29 01:46:45 +0200
 active          const_raw_ptr_to_usize_cast         1.27.0   51910    None         2019-04-29 01:46:45 +0200
