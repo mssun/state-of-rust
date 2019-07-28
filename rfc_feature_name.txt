@@ -271,6 +271,7 @@ RFC                                               Feature Name
 2500-needle.md                                    needle
 2504-fix-error.md                                 fix_error
 2514-union-initialization-and-drop.md             union_initialization_and_drop
+2515-impl-trait-type-aliases.md                   impl_trait_type_aliases
 2521-c_void-reunification.md                      c_void_reunification
 2526-const-wildcard.md                            const_wildcard
 2532-associated-type-defaults.md                  associated_type_defaults
@@ -279,6 +280,7 @@ RFC                                               Feature Name
 2561-future-possibilities.md                      future_possibilities
 2565-formal-function-parameter-attributes.md      param_attrs
 2570-linked-list-cursors.md                       linked_list_cursors
+2574-simd-ffi.md                                  simd_ffi
 2591-exhaustive-integer-pattern-matching.md       exhaustive_integer_patterns
 2592-futures.md                                   futures_api
 2603-symbol-name-mangling-v2.md                   symbol_name_mangling_v2
