@@ -271,7 +271,7 @@ RFC                                               Feature Name
 2500-needle.md                                    needle
 2504-fix-error.md                                 fix_error
 2514-union-initialization-and-drop.md             union_initialization_and_drop
-2515-impl-trait-type-aliases.md                   impl_trait_type_aliases
+2515-type_alias_impl_trait.md                     type_alias_impl_trait
 2521-c_void-reunification.md                      c_void_reunification
 2526-const-wildcard.md                            const_wildcard
 2532-associated-type-defaults.md                  associated_type_defaults
