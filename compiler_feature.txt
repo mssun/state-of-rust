@@ -188,6 +188,7 @@ active          omit_gdb_pretty_printer_section     1.5.0    None     None      
 active          on_unimplemented                    1.0.0    29628    None         2019-04-29 01:46:45 +0200
 active          optimize_attribute                  1.34.0   54882    None         2018-10-27 15:29:06 +0300
 active          optin_builtin_traits                1.0.0    13231    None         2019-04-29 01:46:45 +0200
+active          or_patterns                         1.38.0   54883    None         2019-07-14 01:05:52 +0000
 active          overlapping_marker_traits           1.18.0   29864    None         2018-03-06 16:02:58 -0800
 active          panic_runtime                       1.10.0   32837    None         2019-04-29 01:46:45 +0200
 active          param_attrs                         1.36.0   60406    None         2019-06-09 07:58:40 -0300
