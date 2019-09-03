@@ -249,6 +249,7 @@ RFC                                               Feature Name
 2349-pin.md                                       pin
 2351-is-sorted.md                                 is_sorted
 2359-subslice-pattern-syntax.md                   slice_patterns
+2360-bench-black-box.md                           bench_black_box
 2361-dbg-macro.md                                 dbg_macro
 2363-arbitrary-enum-discriminant.md               arbitrary_enum_discriminant
 2383-lint-reasons.md                              lint_reasons
