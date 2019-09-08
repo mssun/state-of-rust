@@ -206,7 +206,6 @@ active          re_rebalance_coherence              1.32.0   55437    None      
 active          rtm_target_feature                  1.35.0   44839    None         2019-08-20 18:50:33 +0200
 active          rustc_attrs                         1.0.0    29642    None         2019-08-20 18:50:33 +0200
 active          rustc_const_unstable                1.0.0    None     None         2019-08-20 18:50:33 +0200
-active          rustc_diagnostic_macros             1.0.0    None     None         2019-08-20 18:50:33 +0200
 active          rustc_private                       1.0.0    27812    None         2019-08-20 18:50:33 +0200
 active          sanitizer_runtime                   1.17.0   None     None         2019-08-20 18:50:33 +0200
 active          simd_ffi                            1.0.0    27731    None         2019-08-20 18:50:33 +0200
@@ -256,6 +255,7 @@ removed         pushpop_unsafe                      1.2.0    None     None      
 removed         quad_precision_float                1.0.0    None     None         2019-08-20 18:41:18 +0200
 removed         quote                               1.33.0   29601    None         2019-08-20 18:41:18 +0200
 removed         reflect                             1.0.0    27749    None         2019-08-20 18:41:18 +0200
+removed         rustc_diagnostic_macros             1.38.0   None     None         2019-09-03 21:25:06 -0400
 removed         simd                                1.0.0    27731    None         2019-08-20 18:41:18 +0200
 removed         struct_inherit                      1.0.0    None     None         2019-08-20 18:41:18 +0200
 removed         test_removed_feature                1.0.0    None     None         2019-08-20 18:41:18 +0200
