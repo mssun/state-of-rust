@@ -282,6 +282,7 @@ RFC                                               Feature Name
 2565-formal-function-parameter-attributes.md      param_attrs
 2570-linked-list-cursors.md                       linked_list_cursors
 2574-simd-ffi.md                                  simd_ffi
+2582-raw-reference-mir-operator.md                raw_ref_op
 2591-exhaustive-integer-pattern-matching.md       exhaustive_integer_patterns
 2592-futures.md                                   futures_api
 2603-symbol-name-mangling-v2.md                   symbol_name_mangling_v2
