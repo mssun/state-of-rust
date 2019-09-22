@@ -57,6 +57,7 @@ accepted        more_struct_aliases                 1.16.0   37544    None      
 accepted        non_modrs_mods                      1.30.0   44660    None         2019-08-20 18:40:53 +0200
 accepted        no_std                              1.6.0    None     None         2019-08-20 18:40:53 +0200
 accepted        panic_handler                       1.30.0   44489    None         2019-08-20 18:40:53 +0200
+accepted        param_attrs                         1.39.0   60406    None         2019-08-29 20:44:30 -0300
 accepted        pattern_parentheses                 1.31.0   51087    None         2019-08-20 18:40:53 +0200
 accepted        proc_macro                          1.29.0   38356    None         2019-08-20 18:40:53 +0200
 accepted        proc_macro_path_invoc               1.30.0   38356    None         2019-08-20 18:40:53 +0200
@@ -191,7 +192,6 @@ active          optin_builtin_traits                1.0.0    13231    None      
 active          or_patterns                         1.38.0   54883    None         2019-08-20 18:50:33 +0200
 active          overlapping_marker_traits           1.18.0   29864    None         2019-08-20 18:50:33 +0200
 active          panic_runtime                       1.10.0   32837    None         2019-08-20 18:50:33 +0200
-active          param_attrs                         1.36.0   60406    None         2019-08-20 18:50:33 +0200
 active          platform_intrinsics                 1.4.0    27731    None         2019-08-20 18:50:33 +0200
 active          plugin                              1.0.0    29597    None         2019-08-20 18:50:33 +0200
 active          plugin_registrar                    1.0.0    29597    None         2019-08-20 18:50:33 +0200
