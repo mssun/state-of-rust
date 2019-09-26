@@ -274,6 +274,7 @@ RFC                                               Feature Name
 2514-union-initialization-and-drop.md             union_initialization_and_drop
 2515-type_alias_impl_trait.md                     type_alias_impl_trait
 2521-c_void-reunification.md                      c_void_reunification
+2523-cfg-path-version.md                          cfg_version and cfg_accessible
 2526-const-wildcard.md                            const_wildcard
 2532-associated-type-defaults.md                  associated_type_defaults
 2535-or-patterns.md                               or_patterns
