@@ -48,6 +48,7 @@ accepted        macro_at_most_once_rep              1.32.0   48075    None      
 accepted        macro_lifetime_matcher              1.27.0   34303    None         2019-08-20 18:40:53 +0200
 accepted        macro_literal_matcher               1.32.0   35625    None         2019-08-20 18:40:53 +0200
 accepted        macro_rules                         1.0.0    None     None         2019-08-20 18:40:53 +0200
+accepted        macros_in_extern                    1.40.0   49476    None         2019-08-27 02:07:26 +0300
 accepted        macro_vis_matcher                   1.30.0   41022    None         2019-08-20 18:40:53 +0200
 accepted        match_beginning_vert                1.25.0   44101    None         2019-08-20 18:40:53 +0200
 accepted        match_default_bindings              1.26.0   42640    None         2019-08-20 18:40:53 +0200
@@ -170,7 +171,6 @@ active          link_args                           1.0.0    29596    None      
 active          link_cfg                            1.14.0   37406    None         2019-08-20 18:50:33 +0200
 active          link_llvm_intrinsics                1.0.0    29602    None         2019-08-20 18:50:33 +0200
 active          lint_reasons                        1.31.0   54503    None         2019-08-20 18:50:33 +0200
-active          macros_in_extern                    1.27.0   49476    None         2019-08-20 18:50:33 +0200
 active          main                                1.0.0    29634    None         2019-08-20 18:50:33 +0200
 active          marker_trait_attr                   1.30.0   29864    None         2019-08-20 18:50:33 +0200
 active          member_constraints                  1.37.0   61977    None         2019-08-20 18:50:33 +0200
