@@ -234,7 +234,7 @@ active          type_ascription                     1.6.0    23416    None      
 active          unboxed_closures                    1.0.0    29625    None         2019-08-20 18:50:33 +0200
 active          unsized_locals                      1.30.0   48055    None         2019-08-20 18:50:33 +0200
 active          unsized_tuple_coercion              1.20.0   42877    None         2019-08-20 18:50:33 +0200
-active          untagged_unions                     1.13.0   32836    None         2019-08-20 18:50:33 +0200
+active          untagged_unions                     1.13.0   55149    None         2019-10-24 02:24:14 +0200
 active          unwind_attributes                   1.4.0    58760    None         2019-08-20 18:50:33 +0200
 active          wasm_target_feature                 1.30.0   44839    None         2019-08-20 18:50:33 +0200
 removed         advanced_slice_patterns             1.0.0    62254    None         2019-08-20 18:41:18 +0200
