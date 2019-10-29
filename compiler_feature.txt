@@ -14,6 +14,7 @@ accepted        clone_closures                      1.26.0   44490    None      
 accepted        closure_to_fn_coercion              1.19.0   39817    None         2019-08-20 18:40:53 +0200
 accepted        compile_error                       1.20.0   40872    None         2019-08-20 18:40:53 +0200
 accepted        conservative_impl_trait             1.26.0   34511    None         2019-08-20 18:40:53 +0200
+accepted        const_constructor                   1.40.0   61456    None         2019-10-07 21:08:39 +0100
 accepted        const_indexing                      1.26.0   29947    None         2019-08-20 18:40:53 +0200
 accepted        const_let                           1.33.0   48821    None         2019-08-20 18:40:53 +0200
 accepted        copy_closures                       1.26.0   44490    None         2019-08-20 18:40:53 +0200
@@ -101,6 +102,7 @@ accepted        while_let                           1.0.0    None     None      
 accepted        windows_subsystem                   1.18.0   37499    None         2019-08-20 18:40:53 +0200
 active          aarch64_target_feature              1.27.0   44839    None         2019-08-20 18:50:33 +0200
 active          abi_amdgpu_kernel                   1.29.0   51575    None         2019-08-20 18:50:33 +0200
+active          abi_efiapi                          1.40.0   65815    None         2019-10-25 15:08:28 +0000
 active          abi_msp430_interrupt                1.16.0   38487    None         2019-08-20 18:50:33 +0200
 active          abi_ptx                             1.15.0   38788    None         2019-08-20 18:50:33 +0200
 active          abi_thiscall                        1.19.0   None     None         2019-08-20 18:50:33 +0200
@@ -128,7 +130,6 @@ active          cfg_target_thread_local             1.7.0    29594    None      
 active          cmpxchg16b_target_feature           1.32.0   44839    None         2019-08-20 18:50:33 +0200
 active          compiler_builtins                   1.13.0   None     None         2019-08-20 18:50:33 +0200
 active          const_compare_raw_pointers          1.27.0   53020    None         2019-08-20 18:50:33 +0200
-active          const_constructor                   1.37.0   61456    None         2019-08-20 18:50:33 +0200
 active          const_extern_fn                     1.40.0   64926    None         2019-09-29 19:22:18 -0400
 active          const_fn                            1.2.0    57563    None         2019-08-20 18:50:33 +0200
 active          const_fn_union                      1.27.0   51909    None         2019-08-20 18:50:33 +0200
