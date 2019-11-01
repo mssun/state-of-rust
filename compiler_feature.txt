@@ -8,6 +8,7 @@ accepted        augmented_assignments               1.8.0    28235    None      
 accepted        bind_by_move_pattern_guards         1.39.0   15287    None         2019-07-29 23:29:14 +0200
 accepted        braced_empty_structs                1.8.0    29720    None         2019-08-20 18:40:53 +0200
 accepted        cfg_attr_multi                      1.33.0   54881    None         2019-08-20 18:40:53 +0200
+accepted        cfg_doctest                         1.40.0   62210    None         2019-08-01 23:18:37 +0200
 accepted        cfg_target_feature                  1.27.0   29717    None         2019-08-20 18:40:53 +0200
 accepted        cfg_target_vendor                   1.33.0   29718    None         2019-08-20 18:40:53 +0200
 accepted        clone_closures                      1.26.0   44490    None         2019-08-20 18:40:53 +0200
@@ -124,7 +125,6 @@ active          async_closure                       1.37.0   62290    None      
 active          avx512_target_feature               1.27.0   44839    None         2019-08-20 18:50:33 +0200
 active          box_patterns                        1.0.0    29641    None         2019-08-20 18:50:33 +0200
 active          box_syntax                          1.0.0    49733    None         2019-08-20 18:50:33 +0200
-active          cfg_doctest                         1.37.0   62210    None         2019-08-20 18:50:33 +0200
 active          cfg_target_has_atomic               1.9.0    32976    None         2019-08-20 18:50:33 +0200
 active          cfg_target_thread_local             1.7.0    29594    None         2019-08-20 18:50:33 +0200
 active          cmpxchg16b_target_feature           1.32.0   44839    None         2019-08-20 18:50:33 +0200
