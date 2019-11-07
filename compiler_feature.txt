@@ -189,7 +189,6 @@ active          no_debug                            1.5.0    29721    None      
 active          non_ascii_idents                    1.0.0    55467    None         2019-08-20 18:50:33 +0200
 active          object_safe_for_dispatch            1.40.0   43561    None         2019-01-08 22:14:04 +0100
 active          omit_gdb_pretty_printer_section     1.5.0    None     None         2019-08-20 18:50:33 +0200
-active          on_unimplemented                    1.0.0    29628    None         2019-08-20 18:50:33 +0200
 active          optimize_attribute                  1.34.0   54882    None         2019-08-20 18:50:33 +0200
 active          optin_builtin_traits                1.0.0    13231    None         2019-08-20 18:50:33 +0200
 active          or_patterns                         1.38.0   54883    None         2019-08-20 18:50:33 +0200
@@ -250,6 +249,7 @@ removed         macro_reexport                      1.0.0    29638    None      
 removed         managed_boxes                       1.0.0    None     None         2019-08-20 18:41:18 +0200
 removed         needs_allocator                     1.4.0    27389    None         2019-08-20 18:41:18 +0200
 removed         negate_unsigned                     1.0.0    29645    None         2019-08-20 18:41:18 +0200
+removed         on_unimplemented                    1.40.0   None     None         2019-10-25 07:19:07 +0200
 removed         opt_out_copy                        1.0.0    None     None         2019-08-20 18:41:18 +0200
 removed         panic_implementation                1.28.0   44489    None         2019-08-20 18:41:18 +0200
 removed         proc_macro_expr                     1.27.0   54727    None         2019-08-20 18:41:18 +0200
