@@ -222,7 +222,7 @@ active          static_nobundle                     1.16.0   37403    None      
 active          stmt_expr_attributes                1.6.0    15701    None         2019-08-20 18:50:33 +0200
 active          structural_match                    1.8.0    31434    None         2019-08-20 18:50:33 +0200
 active          tbm_target_feature                  1.27.0   44839    None         2019-08-20 18:50:33 +0200
-active          test_2018_feature                   1.31.0   0        Edition2018  2019-08-20 18:50:33 +0200
+active          test_2018_feature                   1.31.0   None     Edition2018  2019-11-11 19:33:30 +0200
 active          thread_local                        1.0.0    29594    None         2019-08-20 18:50:33 +0200
 active          track_caller                        1.40.0   47809    None         2019-10-02 21:32:59 -0700
 active          trait_alias                         1.24.0   41517    None         2019-08-20 18:50:33 +0200
