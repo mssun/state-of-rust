@@ -136,6 +136,7 @@ active          const_extern_fn                     1.40.0   64926    None      
 active          const_fn                            1.2.0    57563    None         2019-08-20 18:50:33 +0200
 active          const_fn_union                      1.27.0   51909    None         2019-08-20 18:50:33 +0200
 active          const_generics                      1.34.0   44580    None         2019-08-20 18:50:33 +0200
+active          const_if_match                      1.41.0   49146    None         2019-09-18 10:27:31 -0700
 active          const_in_array_repeat_expressions   1.37.0   49147    None         2019-08-20 18:50:33 +0200
 active          const_panic                         1.30.0   51999    None         2019-08-20 18:50:33 +0200
 active          const_raw_ptr_deref                 1.27.0   51911    None         2019-08-20 18:50:33 +0200
