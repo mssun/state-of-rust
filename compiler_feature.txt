@@ -127,6 +127,7 @@ active          async_closure                       1.37.0   62290    None      
 active          avx512_target_feature               1.27.0   44839    None         2019-08-20 18:50:33 +0200
 active          box_patterns                        1.0.0    29641    None         2019-08-20 18:50:33 +0200
 active          box_syntax                          1.0.0    49733    None         2019-08-20 18:50:33 +0200
+active          cfg_sanitize                        1.41.0   39699    None         2019-10-22 00:00:00 +0000
 active          cfg_target_has_atomic               1.9.0    32976    None         2019-08-20 18:50:33 +0200
 active          cfg_target_thread_local             1.7.0    29594    None         2019-08-20 18:50:33 +0200
 active          cmpxchg16b_target_feature           1.32.0   44839    None         2019-08-20 18:50:33 +0200
