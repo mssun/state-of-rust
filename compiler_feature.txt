@@ -142,7 +142,6 @@ active          const_in_array_repeat_expressions   1.37.0   49147    None      
 active          const_panic                         1.30.0   51999    None         2019-08-20 18:50:33 +0200
 active          const_raw_ptr_deref                 1.27.0   51911    None         2019-08-20 18:50:33 +0200
 active          const_raw_ptr_to_usize_cast         1.27.0   51910    None         2019-08-20 18:50:33 +0200
-active          const_transmute                     1.29.0   53605    None         2019-08-20 18:50:33 +0200
 active          crate_visibility_modifier           1.23.0   53120    None         2019-08-20 18:50:33 +0200
 active          custom_inner_attributes             1.30.0   54726    None         2019-08-20 18:50:33 +0200
 active          custom_test_frameworks              1.30.0   50297    None         2019-08-20 18:50:33 +0200
