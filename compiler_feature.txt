@@ -57,7 +57,6 @@ accepted        match_default_bindings              1.26.0   42640    None      
 accepted        min_const_fn                        1.31.0   53555    None         2019-08-20 18:40:53 +0200
 accepted        min_const_unsafe_fn                 1.33.0   55607    None         2019-08-20 18:40:53 +0200
 accepted        more_struct_aliases                 1.16.0   37544    None         2019-08-20 18:40:53 +0200
-accepted        never_type                          1.41.0   35121    None         2019-10-13 01:50:03 +0200
 accepted        non_exhaustive                      1.40.0   44109    None         2019-09-20 21:09:39 +0100
 accepted        non_modrs_mods                      1.30.0   44660    None         2019-08-20 18:40:53 +0200
 accepted        no_std                              1.6.0    None     None         2019-08-20 18:40:53 +0200
@@ -139,6 +138,7 @@ active          const_fn_union                      1.27.0   51909    None      
 active          const_generics                      1.34.0   44580    None         2019-08-20 18:50:33 +0200
 active          const_if_match                      1.41.0   49146    None         2019-09-18 10:27:31 -0700
 active          const_in_array_repeat_expressions   1.37.0   49147    None         2019-08-20 18:50:33 +0200
+active          const_loop                          1.41.0   52000    None         2019-12-11 14:15:56 -0800
 active          const_mut_refs                      1.41.0   57349    None         2019-11-21 12:38:14 -0500
 active          const_panic                         1.30.0   51999    None         2019-08-20 18:50:33 +0200
 active          const_raw_ptr_deref                 1.27.0   51911    None         2019-08-20 18:50:33 +0200
@@ -185,6 +185,7 @@ active          mmx_target_feature                  1.27.0   44839    None      
 active          movbe_target_feature                1.34.0   44839    None         2019-08-20 18:50:33 +0200
 active          naked_functions                     1.9.0    32408    None         2019-08-20 18:50:33 +0200
 active          needs_panic_runtime                 1.10.0   32837    None         2019-08-20 18:50:33 +0200
+active          never_type                          1.13.0   35121    None         2019-12-11 09:55:29 -0500
 active          never_type_fallback                 1.41.0   65992    None         2019-10-31 04:33:31 +0100
 active          nll                                 1.0.0    43234    None         2019-08-20 18:50:33 +0200
 active          no_core                             1.3.0    29639    None         2019-08-20 18:50:33 +0200
@@ -213,7 +214,6 @@ active          repr128                             1.16.0   35118    None      
 active          repr_simd                           1.4.0    27731    None         2019-08-20 18:50:33 +0200
 active          rtm_target_feature                  1.35.0   44839    None         2019-08-20 18:50:33 +0200
 active          rustc_attrs                         1.0.0    29642    None         2019-08-20 18:50:33 +0200
-active          rustc_const_unstable                1.0.0    None     None         2019-08-20 18:50:33 +0200
 active          rustc_private                       1.0.0    27812    None         2019-08-20 18:50:33 +0200
 active          sanitizer_runtime                   1.17.0   None     None         2019-08-20 18:50:33 +0200
 active          simd_ffi                            1.0.0    27731    None         2019-08-20 18:50:33 +0200
