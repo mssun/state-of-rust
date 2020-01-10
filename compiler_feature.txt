@@ -144,6 +144,8 @@ active          const_mut_refs                      1.41.0   57349    None      
 active          const_panic                         1.30.0   51999    None         2019-08-20 18:50:33 +0200
 active          const_raw_ptr_deref                 1.27.0   51911    None         2019-08-20 18:50:33 +0200
 active          const_raw_ptr_to_usize_cast         1.27.0   51910    None         2019-08-20 18:50:33 +0200
+active          const_trait_bound_opt_out           1.42.0   67794    None         2020-01-02 15:46:30 -0800
+active          const_trait_impl                    1.42.0   67792    None         2020-01-02 15:45:48 -0800
 active          crate_visibility_modifier           1.23.0   53120    None         2019-08-20 18:50:33 +0200
 active          custom_inner_attributes             1.30.0   54726    None         2019-08-20 18:50:33 +0200
 active          custom_test_frameworks              1.30.0   50297    None         2019-08-20 18:50:33 +0200
