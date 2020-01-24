@@ -294,6 +294,7 @@ RFC                                               Feature Name
 2678-named-custom-cargo-profiles.md               custom_named_cargo_profiles
 2689-compiler-team-contributors.md                N/A
 2696-debug-map-key-value.md                       debug_map_key_value
+2700-associated-constants-on-ints.md              assoc_int_consts
 2707-dotdot-patterns.md                           dotdot_patterns
 2795-format-args-implicit-identifiers.md          format_args_implicits
 2797-project-ffi-unwind.md                        project-unwind-FFI
