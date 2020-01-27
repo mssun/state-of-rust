@@ -89,6 +89,7 @@ accepted        termination_trait_test              1.27.0   48854    None      
 accepted        test_accepted_feature               1.0.0    None     None         2019-08-20 18:40:53 +0200
 accepted        tool_attributes                     1.30.0   44690    None         2019-08-20 18:40:53 +0200
 accepted        tool_lints                          1.31.0   44690    None         2019-08-20 18:40:53 +0200
+accepted        transparent_enums                   1.42.0   60405    None         2020-01-11 00:53:54 +0100
 accepted        tuple_indexing                      1.0.0    None     None         2019-08-20 18:40:53 +0200
 accepted        type_alias_enum_variants            1.37.0   49683    None         2019-08-20 18:40:53 +0200
 accepted        type_macros                         1.13.0   27245    None         2019-08-20 18:40:53 +0200
@@ -233,7 +234,6 @@ active          test_2018_feature                   1.31.0   None     Edition201
 active          thread_local                        1.0.0    29594    None         2019-08-20 18:50:33 +0200
 active          track_caller                        1.40.0   47809    None         2019-10-02 21:32:59 -0700
 active          trait_alias                         1.24.0   41517    None         2019-08-20 18:50:33 +0200
-active          transparent_enums                   1.37.0   60405    None         2019-08-20 18:50:33 +0200
 active          transparent_unions                  1.37.0   60405    None         2019-08-20 18:50:33 +0200
 active          trivial_bounds                      1.28.0   48214    None         2019-08-20 18:50:33 +0200
 active          try_blocks                          1.29.0   31436    None         2019-08-20 18:50:33 +0200
