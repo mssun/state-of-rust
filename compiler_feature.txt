@@ -198,6 +198,7 @@ active          nll                                 1.0.0    43234    None      
 active          no_core                             1.3.0    29639    None         2019-08-20 18:50:33 +0200
 active          no_debug                            1.5.0    29721    None         2019-08-20 18:50:33 +0200
 active          non_ascii_idents                    1.0.0    55467    None         2019-08-20 18:50:33 +0200
+active          no_niche                            1.42.0   None     None         2020-01-22 18:54:04 -0500
 active          no_sanitize                         1.42.0   39699    None         2020-01-12 00:00:00 +0000
 active          object_safe_for_dispatch            1.40.0   43561    None         2019-01-08 22:14:04 +0100
 active          omit_gdb_pretty_printer_section     1.5.0    None     None         2019-08-20 18:50:33 +0200
