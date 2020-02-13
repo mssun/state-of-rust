@@ -256,6 +256,7 @@ RFC                                               Feature Name
 2386-used.md                                      used
 2388-try-expr.md                                  try_expr
 2394-async_await.md                               async_await
+2396-target-feature-1.1.md                        #[target_feature] 1.1
 2397-do-not-recommend.md                          do_not_recommend
 2412-optimize-attr.md                             optimize_attr
 2420-unreserve-proc.md                            unreserve_proc
