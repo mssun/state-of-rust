@@ -159,7 +159,6 @@ active          doc_alias                           1.27.0   50146    None      
 active          doc_cfg                             1.21.0   43781    None         2019-08-20 18:50:33 +0200
 active          doc_keyword                         1.28.0   51315    None         2019-08-20 18:50:33 +0200
 active          doc_masked                          1.21.0   44027    None         2019-08-20 18:50:33 +0200
-active          doc_spotlight                       1.22.0   45040    None         2019-08-20 18:50:33 +0200
 active          dropck_eyepatch                     1.10.0   34761    None         2019-08-20 18:50:33 +0200
 active          exclusive_range_pattern             1.11.0   37854    None         2019-08-20 18:50:33 +0200
 active          exhaustive_patterns                 1.13.0   51085    None         2019-08-20 18:50:33 +0200
