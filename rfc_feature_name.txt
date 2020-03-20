@@ -301,4 +301,5 @@ RFC                                               Feature Name
 2797-project-ffi-unwind.md                        project-unwind-FFI
 2835-project-safe-transmute.md                    project-safe-transmute
 2837-demote-apple-32bit.md                        demote_apple_32bit
+2843-llvm-asm.md                                  llvm_asm
 2857-roadmap-2020.md                              N/A
