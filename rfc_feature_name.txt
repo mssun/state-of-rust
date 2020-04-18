@@ -299,6 +299,7 @@ RFC                                               Feature Name
 2707-dotdot-patterns.md                           dotdot_patterns
 2795-format-args-implicit-identifiers.md          format_args_implicits
 2797-project-ffi-unwind.md                        project-unwind-FFI
+2834-cargo-report-future-incompat.md              N/A
 2835-project-safe-transmute.md                    project-safe-transmute
 2837-demote-apple-32bit.md                        demote_apple_32bit
 2843-llvm-asm.md                                  llvm_asm
