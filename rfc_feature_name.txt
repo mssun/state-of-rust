@@ -301,6 +301,7 @@ RFC                                               Feature Name
 2797-project-ffi-unwind.md                        project-unwind-FFI
 2834-cargo-report-future-incompat.md              N/A
 2835-project-safe-transmute.md                    project-safe-transmute
+2836-project-asm.md                               project-inline-asm
 2837-demote-apple-32bit.md                        demote_apple_32bit
 2843-llvm-asm.md                                  llvm_asm
 2857-roadmap-2020.md                              N/A
