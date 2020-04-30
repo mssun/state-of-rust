@@ -286,6 +286,7 @@ RFC                                               Feature Name
 2570-linked-list-cursors.md                       linked_list_cursors
 2574-simd-ffi.md                                  simd_ffi
 2582-raw-reference-mir-operator.md                raw_ref_op
+2585-unsafe-block-in-unsafe-fn.md                 unsafe_block_in_unsafe_fn
 2591-exhaustive-integer-pattern-matching.md       exhaustive_integer_patterns
 2592-futures.md                                   futures_api
 2603-rust-symbol-name-mangling-v0.md              N/A
