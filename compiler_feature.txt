@@ -106,6 +106,7 @@ accepted        while_let                           1.0.0    None     None      
 accepted        windows_subsystem                   1.18.0   37499    None         2019-08-20 18:40:53 +0200
 active          aarch64_target_feature              1.27.0   44839    None         2019-08-20 18:50:33 +0200
 active          abi_amdgpu_kernel                   1.29.0   51575    None         2019-08-20 18:50:33 +0200
+active          abi_avr_interrupt                   1.45.0   69664    None         2020-03-03 21:05:17 +1300
 active          abi_efiapi                          1.40.0   65815    None         2019-10-25 15:08:28 +0000
 active          abi_msp430_interrupt                1.16.0   38487    None         2019-08-20 18:50:33 +0200
 active          abi_ptx                             1.15.0   38788    None         2019-08-20 18:50:33 +0200
