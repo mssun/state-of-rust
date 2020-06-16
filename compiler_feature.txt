@@ -147,6 +147,7 @@ active          const_in_array_repeat_expressions   1.37.0   49147    None      
 active          const_loop                          1.41.0   52000    None         2019-12-11 14:15:56 -0800
 active          const_mut_refs                      1.41.0   57349    None         2019-11-21 12:38:14 -0500
 active          const_panic                         1.30.0   51999    None         2019-08-20 18:50:33 +0200
+active          const_precise_live_drops            1.46.0   73255    None         2020-06-11 14:30:19 -0700
 active          const_raw_ptr_deref                 1.27.0   51911    None         2019-08-20 18:50:33 +0200
 active          const_raw_ptr_to_usize_cast         1.27.0   51910    None         2019-08-20 18:50:33 +0200
 active          const_trait_bound_opt_out           1.42.0   67794    None         2020-01-02 15:46:30 -0800
