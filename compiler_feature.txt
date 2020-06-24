@@ -136,7 +136,6 @@ active          cfg_target_thread_local             1.7.0    29594    None      
 active          cfg_version                         1.45.0   64796    None         2020-04-19 10:47:55 +0200
 active          cmpxchg16b_target_feature           1.32.0   44839    None         2019-08-20 18:50:33 +0200
 active          compiler_builtins                   1.13.0   None     None         2019-08-20 18:50:33 +0200
-active          const_compare_raw_pointers          1.27.0   53020    None         2019-08-20 18:50:33 +0200
 active          const_eval_limit                    1.43.0   67217    None         2020-02-19 10:24:16 +0100
 active          const_extern_fn                     1.40.0   64926    None         2019-09-29 19:22:18 -0400
 active          const_fn                            1.2.0    57563    None         2019-08-20 18:50:33 +0200
@@ -259,6 +258,7 @@ active          wasm_target_feature                 1.30.0   44839    None      
 removed         advanced_slice_patterns             1.0.0    62254    None         2019-08-20 18:41:18 +0200
 removed         allocator                           1.0.0    None     None         2019-08-20 18:41:18 +0200
 removed         await_macro                         1.38.0   50547    None         2019-08-20 18:41:18 +0200
+removed         const_compare_raw_pointers          1.46.0   53020    None         2020-06-12 19:25:14 +0200
 removed         custom_attribute                    1.0.0    29642    None         2019-11-04 00:36:45 +0300
 removed         custom_derive                       1.32.0   29644    None         2019-08-20 18:41:18 +0200
 removed         dropck_parametricity                1.38.0   28498    None         2019-08-20 18:41:18 +0200
