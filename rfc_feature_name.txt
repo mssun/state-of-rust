@@ -307,4 +307,5 @@ RFC                                               Feature Name
 2843-llvm-asm.md                                  llvm_asm
 2857-roadmap-2020.md                              N/A
 2904-compiler-major-change-process.md             N/A
+2906-cargo-workspace-deduplicate.md               workspace-deduplicate
 2912-rust-analyzer.md                             (fill me in with a unique ident, my_awesome_feature)
