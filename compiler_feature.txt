@@ -16,8 +16,10 @@ accepted        closure_to_fn_coercion              1.19.0   39817    None      
 accepted        compile_error                       1.20.0   40872    None         2019-08-20 18:40:53 +0200
 accepted        conservative_impl_trait             1.26.0   34511    None         2019-08-20 18:40:53 +0200
 accepted        const_constructor                   1.40.0   61456    None         2019-10-07 21:08:39 +0100
+accepted        const_if_match                      1.45.0   49146    None         2020-05-21 11:44:45 -0700
 accepted        const_indexing                      1.26.0   29947    None         2019-08-20 18:40:53 +0200
 accepted        const_let                           1.33.0   48821    None         2019-08-20 18:40:53 +0200
+accepted        const_loop                          1.45.0   52000    None         2020-06-25 17:40:06 -0700
 accepted        copy_closures                       1.26.0   44490    None         2019-08-20 18:40:53 +0200
 accepted        crate_in_paths                      1.30.0   45477    None         2019-08-20 18:40:53 +0200
 accepted        default_type_params                 1.0.0    None     None         2019-08-20 18:40:53 +0200
@@ -141,9 +143,7 @@ active          const_extern_fn                     1.40.0   64926    None      
 active          const_fn                            1.2.0    57563    None         2019-08-20 18:50:33 +0200
 active          const_fn_union                      1.27.0   51909    None         2019-08-20 18:50:33 +0200
 active          const_generics                      1.34.0   44580    None         2019-08-20 18:50:33 +0200
-active          const_if_match                      1.41.0   49146    None         2019-09-18 10:27:31 -0700
 active          const_in_array_repeat_expressions   1.37.0   49147    None         2019-08-20 18:50:33 +0200
-active          const_loop                          1.41.0   52000    None         2019-12-11 14:15:56 -0800
 active          const_mut_refs                      1.41.0   57349    None         2019-11-21 12:38:14 -0500
 active          const_panic                         1.30.0   51999    None         2019-08-20 18:50:33 +0200
 active          const_precise_live_drops            1.46.0   73255    None         2020-06-11 14:30:19 -0700
