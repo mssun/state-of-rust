@@ -306,6 +306,7 @@ RFC                                               Feature Name
 2837-demote-apple-32bit.md                        demote_apple_32bit
 2843-llvm-asm.md                                  llvm_asm
 2857-roadmap-2020.md                              N/A
+2867-isa-attribute.md                             isa_attribute
 2873-inline-asm.md                                asm
 2904-compiler-major-change-process.md             N/A
 2906-cargo-workspace-deduplicate.md               workspace-deduplicate
