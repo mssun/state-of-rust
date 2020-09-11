@@ -140,6 +140,7 @@ active          cfg_version                         1.45.0   64796    None      
 active          cmpxchg16b_target_feature           1.32.0   44839    None         2019-08-20 18:50:33 +0200
 active          compiler_builtins                   1.13.0   None     None         2019-08-20 18:50:33 +0200
 active          const_eval_limit                    1.43.0   67217    None         2020-02-19 10:24:16 +0100
+active          const_evaluatable_checked           1.48.0   76560    None         2020-09-10 09:48:02 +0200
 active          const_extern_fn                     1.40.0   64926    None         2019-09-29 19:22:18 -0400
 active          const_fn                            1.2.0    57563    None         2019-08-20 18:50:33 +0200
 active          const_fn_transmute                  1.46.0   53605    None         2019-08-30 02:01:04 +0200
