@@ -313,3 +313,4 @@ RFC                                               Feature Name
 2912-rust-analyzer.md                             (fill me in with a unique ident, my_awesome_feature)
 2920-inline-const.md                              inline_const
 2945-c-unwind-abi.md                              "C-unwind" ABI
+2963-rustdoc-json.md                              rustdoc_json
