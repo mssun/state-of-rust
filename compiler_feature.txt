@@ -24,6 +24,7 @@ accepted        copy_closures                       1.26.0   44490    None      
 accepted        crate_in_paths                      1.30.0   45477    None         2019-08-20 18:40:53 +0200
 accepted        default_type_params                 1.0.0    None     None         2019-08-20 18:40:53 +0200
 accepted        deprecated                          1.9.0    29935    None         2019-08-20 18:40:53 +0200
+accepted        doc_alias                           1.48.0   50146    None         2020-08-20 13:35:00 +0200
 accepted        dotdoteq_in_patterns                1.26.0   28237    None         2019-08-20 18:40:53 +0200
 accepted        dotdot_in_tuple_patterns            1.14.0   33627    None         2019-08-20 18:40:53 +0200
 accepted        drop_types_in_const                 1.22.0   33156    None         2019-08-20 18:40:53 +0200
@@ -160,7 +161,6 @@ active          custom_test_frameworks              1.30.0   50297    None      
 active          c_variadic                          1.34.0   44930    None         2019-08-20 18:50:33 +0200
 active          decl_macro                          1.17.0   39412    None         2019-08-20 18:50:33 +0200
 active          default_type_parameter_fallback     1.3.0    27336    None         2019-08-20 18:50:33 +0200
-active          doc_alias                           1.27.0   50146    None         2019-08-20 18:50:33 +0200
 active          doc_cfg                             1.21.0   43781    None         2019-08-20 18:50:33 +0200
 active          doc_keyword                         1.28.0   51315    None         2019-08-20 18:50:33 +0200
 active          doc_masked                          1.21.0   44027    None         2019-08-20 18:50:33 +0200
