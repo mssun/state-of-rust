@@ -314,3 +314,5 @@ RFC                                               Feature Name
 2920-inline-const.md                              inline_const
 2945-c-unwind-abi.md                              "C-unwind" ABI
 2963-rustdoc-json.md                              rustdoc_json
+2965-project-error-handling.md                    error_handling_project_group
+2977-stdsimd.md                                   stdsimd_project_group
