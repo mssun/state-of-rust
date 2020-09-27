@@ -144,6 +144,7 @@ active          const_eval_limit                    1.43.0   67217    None      
 active          const_evaluatable_checked           1.48.0   76560    None         2020-09-10 09:48:02 +0200
 active          const_extern_fn                     1.40.0   64926    None         2019-09-29 19:22:18 -0400
 active          const_fn                            1.2.0    57563    None         2019-08-20 18:50:33 +0200
+active          const_fn_floating_point_arithmetic  1.48.0   57241    None         2020-09-23 13:08:20 -0700
 active          const_fn_transmute                  1.46.0   53605    None         2019-08-30 02:01:04 +0200
 active          const_fn_union                      1.27.0   51909    None         2019-08-20 18:50:33 +0200
 active          const_generics                      1.34.0   44580    None         2019-08-20 18:50:33 +0200
