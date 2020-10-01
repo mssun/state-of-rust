@@ -139,6 +139,7 @@ active          cfg_target_has_atomic               1.9.0    32976    None      
 active          cfg_target_thread_local             1.7.0    29594    None         2019-08-20 18:50:33 +0200
 active          cfg_version                         1.45.0   64796    None         2020-04-19 10:47:55 +0200
 active          cmpxchg16b_target_feature           1.32.0   44839    None         2019-08-20 18:50:33 +0200
+active          cmse_nonsecure_entry                1.48.0   75835    None         2020-09-28 21:10:38 +0100
 active          compiler_builtins                   1.13.0   None     None         2019-08-20 18:50:33 +0200
 active          const_eval_limit                    1.43.0   67217    None         2020-02-19 10:24:16 +0100
 active          const_evaluatable_checked           1.48.0   76560    None         2020-09-10 09:48:02 +0200
