@@ -163,6 +163,7 @@ active          custom_inner_attributes             1.30.0   54726    None      
 active          custom_test_frameworks              1.30.0   50297    None         2019-08-20 18:50:33 +0200
 active          c_variadic                          1.34.0   44930    None         2019-08-20 18:50:33 +0200
 active          decl_macro                          1.17.0   39412    None         2019-08-20 18:50:33 +0200
+active          default_alloc_error_handler         1.48.0   66741    None         2020-09-07 10:45:20 +0200
 active          default_type_parameter_fallback     1.3.0    27336    None         2019-08-20 18:50:33 +0200
 active          doc_cfg                             1.21.0   43781    None         2019-08-20 18:50:33 +0200
 active          doc_keyword                         1.28.0   51315    None         2019-08-20 18:50:33 +0200
