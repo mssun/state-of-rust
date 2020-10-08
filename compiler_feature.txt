@@ -150,6 +150,7 @@ active          const_fn_fn_ptr_basics              1.48.0   57563    None      
 active          const_fn_transmute                  1.46.0   53605    None         2019-08-30 02:01:04 +0200
 active          const_fn_union                      1.27.0   51909    None         2019-08-20 18:50:33 +0200
 active          const_generics                      1.34.0   44580    None         2019-08-20 18:50:33 +0200
+active          const_impl_trait                    1.48.0   77463    None         2020-10-05 20:30:13 -0700
 active          const_in_array_repeat_expressions   1.37.0   49147    None         2019-08-20 18:50:33 +0200
 active          const_mut_refs                      1.41.0   57349    None         2019-11-21 12:38:14 -0500
 active          const_panic                         1.30.0   51999    None         2019-08-20 18:50:33 +0200
