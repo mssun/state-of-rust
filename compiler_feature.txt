@@ -241,6 +241,7 @@ active          repr128                             1.16.0   56071    None      
 active          repr_simd                           1.4.0    27731    None         2019-08-20 18:50:33 +0200
 active          riscv_target_feature                1.45.0   44839    None         2020-05-08 00:57:22 +0100
 active          rtm_target_feature                  1.35.0   44839    None         2019-08-20 18:50:33 +0200
+active          rustc_allow_const_fn_unstable       1.49.0   69399    None         2020-10-21 12:36:07 +0200
 active          rustc_attrs                         1.0.0    None     None         2020-03-01 00:35:49 +0900
 active          rustc_private                       1.0.0    27812    None         2019-08-20 18:50:33 +0200
 active          simd_ffi                            1.0.0    27731    None         2019-08-20 18:50:33 +0200
