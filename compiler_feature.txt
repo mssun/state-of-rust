@@ -172,6 +172,7 @@ active          doc_keyword                         1.28.0   51315    None      
 active          doc_masked                          1.21.0   44027    None         2019-08-20 18:50:33 +0200
 active          doc_spotlight                       1.22.0   45040    None         2020-07-06 12:53:44 -0700
 active          dropck_eyepatch                     1.10.0   34761    None         2019-08-20 18:50:33 +0200
+active          ermsb_target_feature                1.49.0   44839    None         2020-10-26 03:46:54 -0700
 active          exclusive_range_pattern             1.11.0   37854    None         2019-08-20 18:50:33 +0200
 active          exhaustive_patterns                 1.13.0   51085    None         2019-08-20 18:50:33 +0200
 active          external_doc                        1.22.0   44732    None         2019-08-20 18:50:33 +0200
