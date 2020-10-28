@@ -265,6 +265,7 @@ active          type_alias_impl_trait               1.38.0   63063    None      
 active          type_ascription                     1.6.0    23416    None         2019-08-20 18:50:33 +0200
 active          unboxed_closures                    1.0.0    29625    None         2019-08-20 18:50:33 +0200
 active          unsafe_block_in_unsafe_fn           1.45.0   71668    None         2020-05-03 23:11:34 +0200
+active          unsized_fn_params                   1.49.0   48055    None         2020-10-16 17:46:59 -0300
 active          unsized_locals                      1.30.0   48055    None         2019-08-20 18:50:33 +0200
 active          unsized_tuple_coercion              1.20.0   42877    None         2019-08-20 18:50:33 +0200
 active          untagged_unions                     1.13.0   55149    None         2019-10-24 02:24:14 +0200
