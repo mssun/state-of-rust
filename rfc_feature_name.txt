@@ -313,6 +313,7 @@ RFC                                                 Feature Name
 2909-destructuring-assignment.md                    destructuring_assignment
 2912-rust-analyzer.md                               (fill me in with a unique ident, my_awesome_feature)
 2920-inline-const.md                                inline_const
+2930-read-buf.md                                    read_buf
 2945-c-unwind-abi.md                                "C-unwind" ABI
 2959-promote-aarch64-unknown-linux-gnu-to-tier1.md  promote-aarch64-unknown-linux-gnu-to-tier-1
 2963-rustdoc-json.md                                rustdoc_json
