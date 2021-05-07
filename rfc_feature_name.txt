@@ -285,6 +285,7 @@ RFC                                                 Feature Name
 2565-formal-function-parameter-attributes.md        param_attrs
 2570-linked-list-cursors.md                         linked_list_cursors
 2574-simd-ffi.md                                    simd_ffi
+2580-ptr-meta.md                                    ptr-meta
 2582-raw-reference-mir-operator.md                  raw_ref_op
 2585-unsafe-block-in-unsafe-fn.md                   unsafe_block_in_unsafe_fn
 2591-exhaustive-integer-pattern-matching.md         exhaustive_integer_patterns
@@ -299,12 +300,15 @@ RFC                                                 Feature Name
 2700-associated-constants-on-ints.md                assoc_int_consts
 2707-dotdot-patterns.md                             dotdot_patterns
 2730-cargo-token-from-process.md                    cargo_token_from_process
+2789-sparse-index.md                                sparse_index
 2795-format-args-implicit-identifiers.md            format_args_implicits
 2797-project-ffi-unwind.md                          project-unwind-FFI
+2803-target-tier-policy.md                          target_tier_policy
 2834-cargo-report-future-incompat.md                N/A
 2835-project-safe-transmute.md                      project-safe-transmute
 2836-project-asm.md                                 project-inline-asm
 2837-demote-apple-32bit.md                          demote_apple_32bit
+2841-export-executable-symbols.md                   export-executable-symbols
 2843-llvm-asm.md                                    llvm_asm
 2857-roadmap-2020.md                                N/A
 2867-isa-attribute.md                               isa_attribute
@@ -316,7 +320,21 @@ RFC                                                 Feature Name
 2920-inline-const.md                                inline_const
 2930-read-buf.md                                    read_buf
 2945-c-unwind-abi.md                                "C-unwind" ABI
+2951-native-link-modifiers.md                       native_link_modifiers
+2957-cargo-features2.md                             cargo-features2
 2959-promote-aarch64-unknown-linux-gnu-to-tier1.md  promote-aarch64-unknown-linux-gnu-to-tier-1
 2963-rustdoc-json.md                                rustdoc_json
 2965-project-error-handling.md                      error_handling_project_group
 2977-stdsimd.md                                     stdsimd_project_group
+2992-cfg-target-abi.md                              cfg-target-abi
+2996-async-stream.md                                async_stream
+3013-conditional-compilation-checking.md            N/A
+3014-must-not-suspend-lint.md                       must_not_suspend_lint
+3016-const-ub.md                                    const_ub
+3027-infallible-promotion.md                        infallible_lifetime_extension
+3028-cargo-binary-dependencies.md                   (bindeps)
+3037-roadmap-2021.md                                n/a
+3052-optional-authors-field.md                      optional_authors_field
+3058-try-trait-v2.md                                try_trait_v2
+3086-macro-metavar-expr.md                          macro_metavar_expr
+3101-reserved_prefixes.md                           reserved_prefixes
